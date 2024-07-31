@@ -1,5 +1,7 @@
 *
 !.gitignore
+!data/data_harga/
+!data/data_harga/data_bahan_pokok.xlsx
 !data/
 !data/dataframe_data.csv
 !bahan_pokok_bulanan.ipynb
