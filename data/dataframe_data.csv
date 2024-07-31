@@ -1,0 +1,2233 @@
+,tanggal,nama,satuan,harga,kategori
+0,2019-01-01,beras ir64 (kw premium),kg,13000.0,beras
+1,2019-02-01,beras ir64 (kw premium),kg,13000.0,beras
+2,2019-03-01,beras ir64 (kw premium),kg,13000.0,beras
+3,2019-04-01,beras ir64 (kw premium),kg,13000.0,beras
+4,2019-05-01,beras ir64 (kw premium),kg,13000.0,beras
+5,2019-06-01,beras ir64 (kw premium),kg,13000.0,beras
+6,2019-07-01,beras ir64 (kw premium),kg,13000.0,beras
+7,2019-08-01,beras ir64 (kw premium),kg,13000.0,beras
+8,2019-09-01,beras ir64 (kw premium),kg,13000.0,beras
+9,2019-10-01,beras ir64 (kw premium),kg,13000.0,beras
+10,2019-11-01,beras ir64 (kw premium),kg,12947.3684210526,beras
+11,2019-12-01,beras ir64 (kw premium),kg,12460.0,beras
+12,2019-01-01,beras ir64 (kw medium),kg,9966.66666666666,beras
+13,2019-02-01,beras ir64 (kw medium),kg,9866.66666666666,beras
+14,2019-03-01,beras ir64 (kw medium),kg,9831.66666666667,beras
+15,2019-04-01,beras ir64 (kw medium),kg,9294.73684210527,beras
+16,2019-05-01,beras ir64 (kw medium),kg,9166.66666666666,beras
+17,2019-06-01,beras ir64 (kw medium),kg,9166.66666666666,beras
+18,2019-07-01,beras ir64 (kw medium),kg,9166.66666666666,beras
+19,2019-08-01,beras ir64 (kw medium),kg,9525.75757575757,beras
+20,2019-09-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+21,2019-10-01,beras ir64 (kw medium),kg,9698.4126984127,beras
+22,2019-11-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+23,2019-12-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+24,2019-01-01,gula pasir kristal putih,kg,11000.0,gula
+25,2019-02-01,gula pasir kristal putih,kg,11078.9473684211,gula
+26,2019-03-01,gula pasir kristal putih,kg,11500.0,gula
+27,2019-04-01,gula pasir kristal putih,kg,11500.0,gula
+28,2019-05-01,gula pasir kristal putih,kg,12909.0909090909,gula
+29,2019-06-01,gula pasir kristal putih,kg,13000.0,gula
+30,2019-07-01,gula pasir kristal putih,kg,12318.1818181818,gula
+31,2019-08-01,gula pasir kristal putih,kg,12000.0,gula
+32,2019-09-01,gula pasir kristal putih,kg,12000.0,gula
+33,2019-10-01,gula pasir kristal putih,kg,12595.2380952381,gula
+34,2019-11-01,gula pasir kristal putih,kg,12500.0,gula
+35,2019-12-01,gula pasir kristal putih,kg,13000.0,gula
+36,2019-01-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+37,2019-02-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+38,2019-03-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+39,2019-04-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+40,2019-05-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+41,2019-06-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+42,2019-07-01,"minyak goreng curah, tanpa merek",liter,9318.18181818182,minyak goreng
+43,2019-08-01,"minyak goreng curah, tanpa merek",liter,9386.36363636364,minyak goreng
+44,2019-09-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+45,2019-10-01,"minyak goreng curah, tanpa merek",liter,10000.0,minyak goreng
+46,2019-11-01,"minyak goreng curah, tanpa merek",liter,11105.2631578947,minyak goreng
+47,2019-12-01,"minyak goreng curah, tanpa merek",liter,11800.0,minyak goreng
+48,2019-01-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+49,2019-02-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+50,2019-03-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+51,2019-04-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+52,2019-05-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+53,2019-06-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+54,2019-07-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+55,2019-08-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+56,2019-09-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+57,2019-10-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+58,2019-11-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+59,2019-12-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13000.0,minyak goreng
+60,2019-01-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+61,2019-02-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+62,2019-03-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+63,2019-04-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+64,2019-05-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+65,2019-06-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+66,2019-07-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+67,2019-08-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+68,2019-09-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+69,2019-10-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+70,2019-11-01,minyak goreng kemasan sederhana (1 lt),liter,11157.8947368421,minyak goreng
+71,2019-12-01,minyak goreng kemasan sederhana (1 lt),liter,11800.0,minyak goreng
+72,2019-01-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+73,2019-02-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+74,2019-03-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+75,2019-04-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+76,2019-05-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+77,2019-06-01,"daging sapi lokal, paha depan (chuck)",kg,128115.942028986,daging sapi
+78,2019-07-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+79,2019-08-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+80,2019-09-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+81,2019-10-01,"daging sapi lokal, paha depan (chuck)",kg,123968.253968254,daging sapi
+82,2019-11-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+83,2019-12-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+84,2019-01-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+85,2019-02-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+86,2019-03-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+87,2019-04-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+88,2019-05-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+89,2019-06-01,"daging sapi lokal, paha belakang",kg,128115.942028986,daging sapi
+90,2019-07-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+91,2019-08-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+92,2019-09-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+93,2019-10-01,"daging sapi lokal, paha belakang",kg,123968.253968254,daging sapi
+94,2019-11-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+95,2019-12-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+96,2019-01-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+97,2019-02-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+98,2019-03-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+99,2019-04-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+100,2019-05-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+101,2019-06-01,"daging sapi lokal, has luar (sirloin)",kg,128115.942028986,daging sapi
+102,2019-07-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+103,2019-08-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+104,2019-09-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+105,2019-10-01,"daging sapi lokal, has luar (sirloin)",kg,123968.253968254,daging sapi
+106,2019-11-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+107,2019-12-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+108,2019-01-01,"daging sapi lokal, sandung lamur (brisket",kg,105000.0,daging sapi
+109,2019-02-01,"daging sapi lokal, sandung lamur (brisket",kg,105000.0,daging sapi
+110,2019-03-01,"daging sapi lokal, sandung lamur (brisket",kg,104250.0,daging sapi
+111,2019-04-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+112,2019-05-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+113,2019-06-01,"daging sapi lokal, sandung lamur (brisket",kg,108985.507246377,daging sapi
+114,2019-07-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+115,2019-08-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+116,2019-09-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+117,2019-10-01,"daging sapi lokal, sandung lamur (brisket",kg,103968.253968254,daging sapi
+118,2019-11-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+119,2019-12-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+120,2019-01-01,daging sapi lokal tetelan,kg,105000.0,daging sapi
+121,2019-02-01,daging sapi lokal tetelan,kg,105000.0,daging sapi
+122,2019-03-01,daging sapi lokal tetelan,kg,104250.0,daging sapi
+123,2019-04-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+124,2019-05-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+125,2019-06-01,daging sapi lokal tetelan,kg,108985.507246377,daging sapi
+126,2019-07-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+127,2019-08-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+128,2019-09-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+129,2019-10-01,daging sapi lokal tetelan,kg,103968.253968254,daging sapi
+130,2019-11-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+131,2019-12-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+132,2019-01-01,"daging sapi impor, beku",kg,,daging sapi
+133,2019-02-01,"daging sapi impor, beku",kg,,daging sapi
+134,2019-03-01,"daging sapi impor, beku",kg,,daging sapi
+135,2019-04-01,"daging sapi impor, beku",kg,,daging sapi
+136,2019-05-01,"daging sapi impor, beku",kg,,daging sapi
+137,2019-06-01,"daging sapi impor, beku",kg,,daging sapi
+138,2019-07-01,"daging sapi impor, beku",kg,,daging sapi
+139,2019-08-01,"daging sapi impor, beku",kg,,daging sapi
+140,2019-09-01,"daging sapi impor, beku",kg,,daging sapi
+141,2019-10-01,"daging sapi impor, beku",kg,,daging sapi
+142,2019-11-01,"daging sapi impor, beku",kg,,daging sapi
+143,2019-12-01,"daging sapi impor, beku",kg,,daging sapi
+144,2019-01-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+145,2019-02-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+146,2019-03-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+147,2019-04-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+148,2019-05-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+149,2019-06-01,"daging sapi lokal, has dalam (tenderloin)",kg,128115.942028986,daging sapi
+150,2019-07-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+151,2019-08-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+152,2019-09-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+153,2019-10-01,"daging sapi lokal, has dalam (tenderloin)",kg,123968.253968254,daging sapi
+154,2019-11-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+155,2019-12-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+156,2019-01-01,"daging ayam broiler/ras, utuh",kg,35174.6031746032,daging ayam
+157,2019-02-01,"daging ayam broiler/ras, utuh",kg,34122.8070175439,daging ayam
+158,2019-03-01,"daging ayam broiler/ras, utuh",kg,32666.6666666667,daging ayam
+159,2019-04-01,"daging ayam broiler/ras, utuh",kg,33789.4736842105,daging ayam
+160,2019-05-01,"daging ayam broiler/ras, utuh",kg,35378.7878787879,daging ayam
+161,2019-06-01,"daging ayam broiler/ras, utuh",kg,33971.0144927536,daging ayam
+162,2019-07-01,"daging ayam broiler/ras, utuh",kg,35257.5757575758,daging ayam
+163,2019-08-01,"daging ayam broiler/ras, utuh",kg,33848.4848484848,daging ayam
+164,2019-09-01,"daging ayam broiler/ras, utuh",kg,32095.2380952381,daging ayam
+165,2019-10-01,"daging ayam broiler/ras, utuh",kg,34714.2857142857,daging ayam
+166,2019-11-01,"daging ayam broiler/ras, utuh",kg,34385.9649122807,daging ayam
+167,2019-12-01,"daging ayam broiler/ras, utuh",kg,34640.0,daging ayam
+168,2019-01-01,daging ayam kampung,kg,70000.0,daging ayam
+169,2019-02-01,daging ayam kampung,kg,69210.5263157895,daging ayam
+170,2019-03-01,daging ayam kampung,kg,65000.0,daging ayam
+171,2019-04-01,daging ayam kampung,kg,65000.0,daging ayam
+172,2019-05-01,daging ayam kampung,kg,65000.0,daging ayam
+173,2019-06-01,daging ayam kampung,kg,65000.0,daging ayam
+174,2019-07-01,daging ayam kampung,kg,65000.0,daging ayam
+175,2019-08-01,daging ayam kampung,kg,65000.0,daging ayam
+176,2019-09-01,daging ayam kampung,kg,65000.0,daging ayam
+177,2019-10-01,daging ayam kampung,kg,65000.0,daging ayam
+178,2019-11-01,daging ayam kampung,kg,65000.0,daging ayam
+179,2019-12-01,daging ayam kampung,kg,65000.0,daging ayam
+180,2019-01-01,telur ayam negeri,kg,23055.5555555556,telur
+181,2019-02-01,telur ayam negeri,kg,22157.8947368421,telur
+182,2019-03-01,telur ayam negeri,kg,22650.0,telur
+183,2019-04-01,telur ayam negeri,kg,23692.9824561404,telur
+184,2019-05-01,telur ayam negeri,kg,23469.696969697,telur
+185,2019-06-01,telur ayam negeri,kg,23601.4492753623,telur
+186,2019-07-01,telur ayam negeri,kg,23143.9393939394,telur
+187,2019-08-01,telur ayam negeri,kg,23454.5454545455,telur
+188,2019-09-01,telur ayam negeri,kg,21349.2063492063,telur
+189,2019-10-01,telur ayam negeri,kg,20460.3174603175,telur
+190,2019-11-01,telur ayam negeri,kg,22745.6140350877,telur
+191,2019-12-01,telur ayam negeri,kg,25673.3333333333,telur
+192,2019-01-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+193,2019-02-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+194,2019-03-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+195,2019-04-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+196,2019-05-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+197,2019-06-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+198,2019-07-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+199,2019-08-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+200,2019-09-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+201,2019-10-01,telur ayam kampung (per 21 biji),kg,48500.0,telur
+202,2019-11-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+203,2019-12-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+204,2019-01-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+205,2019-02-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+206,2019-03-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+207,2019-04-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+208,2019-05-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+209,2019-06-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+210,2019-07-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+211,2019-08-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+212,2019-09-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+213,2019-10-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+214,2019-11-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+215,2019-12-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+216,2019-01-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+217,2019-02-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+218,2019-03-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+219,2019-04-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+220,2019-05-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+221,2019-06-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+222,2019-07-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+223,2019-08-01,tepung terigu protein sedang,kg,9500.0,tepung terigu (bogasari)
+224,2019-09-01,tepung terigu protein sedang,kg,9071.42857142857,tepung terigu (bogasari)
+225,2019-10-01,tepung terigu protein sedang,kg,9047.61904761905,tepung terigu (bogasari)
+226,2019-11-01,tepung terigu protein sedang,kg,9000.0,tepung terigu (bogasari)
+227,2019-12-01,tepung terigu protein sedang,kg,9000.0,tepung terigu (bogasari)
+228,2019-01-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+229,2019-02-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+230,2019-03-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+231,2019-04-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+232,2019-05-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+233,2019-06-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+234,2019-07-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+235,2019-08-01,tepung terigu protein rendah,kg,8000.0,tepung terigu (bogasari)
+236,2019-09-01,tepung terigu protein rendah,kg,8857.14285714286,tepung terigu (bogasari)
+237,2019-10-01,tepung terigu protein rendah,kg,9071.42857142857,tepung terigu (bogasari)
+238,2019-11-01,tepung terigu protein rendah,kg,9000.0,tepung terigu (bogasari)
+239,2019-12-01,tepung terigu protein rendah,kg,9000.0,tepung terigu (bogasari)
+240,2019-01-01,kedelai kuning lokal,kg,8500.0,kedelai
+241,2019-02-01,kedelai kuning lokal,kg,8500.0,kedelai
+242,2019-03-01,kedelai kuning lokal,kg,8500.0,kedelai
+243,2019-04-01,kedelai kuning lokal,kg,8500.0,kedelai
+244,2019-05-01,kedelai kuning lokal,kg,8500.0,kedelai
+245,2019-06-01,kedelai kuning lokal,kg,8500.0,kedelai
+246,2019-07-01,kedelai kuning lokal,kg,8500.0,kedelai
+247,2019-08-01,kedelai kuning lokal,kg,8500.0,kedelai
+248,2019-09-01,kedelai kuning lokal,kg,8500.0,kedelai
+249,2019-10-01,kedelai kuning lokal,kg,9714.28571428571,kedelai
+250,2019-11-01,kedelai kuning lokal,kg,10000.0,kedelai
+251,2019-12-01,kedelai kuning lokal,kg,10000.0,kedelai
+252,2019-01-01,kedelai ex. impor,kg,7100.0,kedelai
+253,2019-02-01,kedelai ex. impor,kg,7100.0,kedelai
+254,2019-03-01,kedelai ex. impor,kg,7100.0,kedelai
+255,2019-04-01,kedelai ex. impor,kg,7100.0,kedelai
+256,2019-05-01,kedelai ex. impor,kg,7100.0,kedelai
+257,2019-06-01,kedelai ex. impor,kg,7100.0,kedelai
+258,2019-07-01,kedelai ex. impor,kg,6900.0,kedelai
+259,2019-08-01,kedelai ex. impor,kg,6900.0,kedelai
+260,2019-09-01,kedelai ex. impor,kg,7328.57142857143,kedelai
+261,2019-10-01,kedelai ex. impor,kg,6957.14285714286,kedelai
+262,2019-11-01,kedelai ex. impor,kg,6900.0,kedelai
+263,2019-12-01,kedelai ex. impor,kg,6900.0,kedelai
+264,2019-01-01,cabai merah besar,kg,21714.2857142857,cabai
+265,2019-02-01,cabai merah besar,kg,16210.5263157895,cabai
+266,2019-03-01,cabai merah besar,kg,18000.0,cabai
+267,2019-04-01,cabai merah besar,kg,19298.2456140351,cabai
+268,2019-05-01,cabai merah besar,kg,24545.4545454545,cabai
+269,2019-06-01,cabai merah besar,kg,46521.7391304348,cabai
+270,2019-07-01,cabai merah besar,kg,57212.1212121212,cabai
+271,2019-08-01,cabai merah besar,kg,59242.4242424242,cabai
+272,2019-09-01,cabai merah besar,kg,37523.8095238095,cabai
+273,2019-10-01,cabai merah besar,kg,31333.3333333333,cabai
+274,2019-11-01,cabai merah besar,kg,26982.4561403509,cabai
+275,2019-12-01,cabai merah besar,kg,32733.3333333333,cabai
+276,2019-01-01,cabai merah keriting,kg,20317.4603174603,cabai
+277,2019-02-01,cabai merah keriting,kg,12403.5087719298,cabai
+278,2019-03-01,cabai merah keriting,kg,18283.3333333333,cabai
+279,2019-04-01,cabai merah keriting,kg,20421.052631579,cabai
+280,2019-05-01,cabai merah keriting,kg,28742.4242424242,cabai
+281,2019-06-01,cabai merah keriting,kg,46579.7101449275,cabai
+282,2019-07-01,cabai merah keriting,kg,57212.1212121212,cabai
+283,2019-08-01,cabai merah keriting,kg,59242.4242424242,cabai
+284,2019-09-01,cabai merah keriting,kg,37523.8095238095,cabai
+285,2019-10-01,cabai merah keriting,kg,31333.3333333333,cabai
+286,2019-11-01,cabai merah keriting,kg,26982.4561403509,cabai
+287,2019-12-01,cabai merah keriting,kg,32733.3333333333,cabai
+288,2019-01-01,cabai rawit merah,kg,31936.5079365079,cabai
+289,2019-02-01,cabai rawit merah,kg,20596.4912280702,cabai
+290,2019-03-01,cabai rawit merah,kg,20766.6666666667,cabai
+291,2019-04-01,cabai rawit merah,kg,20315.7894736842,cabai
+292,2019-05-01,cabai rawit merah,kg,19060.6060606061,cabai
+293,2019-06-01,cabai rawit merah,kg,26536.231884058,cabai
+294,2019-07-01,cabai rawit merah,kg,64439.3939393939,cabai
+295,2019-08-01,cabai rawit merah,kg,73333.3333333333,cabai
+296,2019-09-01,cabai rawit merah,kg,54333.3333333333,cabai
+297,2019-10-01,cabai rawit merah,kg,39873.0158730159,cabai
+298,2019-11-01,cabai rawit merah,kg,34842.1052631579,cabai
+299,2019-12-01,cabai rawit merah,kg,37693.3333333333,cabai
+300,2019-01-01,cabai rawit hijau,kg,21428.5714285714,cabai
+301,2019-02-01,cabai rawit hijau,kg,20000.0,cabai
+302,2019-03-01,cabai rawit hijau,kg,19200.0,cabai
+303,2019-04-01,cabai rawit hijau,kg,20526.3157894737,cabai
+304,2019-05-01,cabai rawit hijau,kg,24000.0,cabai
+305,2019-06-01,cabai rawit hijau,kg,27826.0869565217,cabai
+306,2019-07-01,cabai rawit hijau,kg,59590.9090909091,cabai
+307,2019-08-01,cabai rawit hijau,kg,57727.2727272727,cabai
+308,2019-09-01,cabai rawit hijau,kg,31650.7936507937,cabai
+309,2019-10-01,cabai rawit hijau,kg,29333.3333333333,cabai
+310,2019-11-01,cabai rawit hijau,kg,22947.3684210526,cabai
+311,2019-12-01,cabai rawit hijau,kg,20000.0,cabai
+312,2019-01-01,bawang merah lokal,kg,27380.9523809524,bawang
+313,2019-02-01,bawang merah lokal,kg,21578.947368421,bawang
+314,2019-03-01,bawang merah lokal,kg,31666.6666666667,bawang
+315,2019-04-01,bawang merah lokal,kg,39859.649122807,bawang
+316,2019-05-01,bawang merah lokal,kg,30545.4545454545,bawang
+317,2019-06-01,bawang merah lokal,kg,33985.5072463768,bawang
+318,2019-07-01,bawang merah lokal,kg,29181.8181818182,bawang
+319,2019-08-01,bawang merah lokal,kg,24151.5151515152,bawang
+320,2019-09-01,bawang merah lokal,kg,18666.6666666667,bawang
+321,2019-10-01,bawang merah lokal,kg,23650.7936507937,bawang
+322,2019-11-01,bawang merah lokal,kg,30140.350877193,bawang
+323,2019-12-01,bawang merah lokal,kg,38480.0,bawang
+324,2019-01-01,"bawang putih impor, honan",kg,21365.0793650794,bawang
+325,2019-02-01,"bawang putih impor, honan",kg,21052.6315789474,bawang
+326,2019-03-01,"bawang putih impor, honan",kg,26383.3333333333,bawang
+327,2019-04-01,"bawang putih impor, honan",kg,36175.4385964912,bawang
+328,2019-05-01,"bawang putih impor, honan",kg,37439.3939393939,bawang
+329,2019-06-01,"bawang putih impor, honan",kg,31333.3333333333,bawang
+330,2019-07-01,"bawang putih impor, honan",kg,31090.9090909091,bawang
+331,2019-08-01,"bawang putih impor, honan",kg,30121.2121212121,bawang
+332,2019-09-01,"bawang putih impor, honan",kg,26666.6666666667,bawang
+333,2019-10-01,"bawang putih impor, honan",kg,26730.1587301587,bawang
+334,2019-11-01,"bawang putih impor, honan",kg,26000.0,bawang
+335,2019-12-01,"bawang putih impor, honan",kg,26000.0,bawang
+336,2019-01-01,"bawang putih impor, kating",kg,27111.1111111111,bawang
+337,2019-02-01,"bawang putih impor, kating",kg,34736.8421052632,bawang
+338,2019-03-01,"bawang putih impor, kating",kg,42600.0,bawang
+339,2019-04-01,"bawang putih impor, kating",kg,51719.298245614,bawang
+340,2019-05-01,"bawang putih impor, kating",kg,43272.7272727273,bawang
+341,2019-06-01,"bawang putih impor, kating",kg,36985.5072463768,bawang
+342,2019-07-01,"bawang putih impor, kating",kg,34181.8181818182,bawang
+343,2019-08-01,"bawang putih impor, kating",kg,32878.7878787879,bawang
+344,2019-09-01,"bawang putih impor, kating",kg,31269.8412698413,bawang
+345,2019-10-01,"bawang putih impor, kating",kg,29396.8253968254,bawang
+346,2019-11-01,"bawang putih impor, kating",kg,30035.0877192982,bawang
+347,2019-12-01,"bawang putih impor, kating",kg,29706.6666666667,bawang
+348,2019-01-01,ikan laut teri,kg,80000.0,ikan laut
+349,2019-02-01,ikan laut teri,kg,80000.0,ikan laut
+350,2019-03-01,ikan laut teri,kg,80000.0,ikan laut
+351,2019-04-01,ikan laut teri,kg,80000.0,ikan laut
+352,2019-05-01,ikan laut teri,kg,80000.0,ikan laut
+353,2019-06-01,ikan laut teri,kg,80000.0,ikan laut
+354,2019-07-01,ikan laut teri,kg,80000.0,ikan laut
+355,2019-08-01,ikan laut teri,kg,80000.0,ikan laut
+356,2019-09-01,ikan laut teri,kg,80000.0,ikan laut
+357,2019-10-01,ikan laut teri,kg,80000.0,ikan laut
+358,2019-11-01,ikan laut teri,kg,80000.0,ikan laut
+359,2019-12-01,ikan laut teri,kg,80000.0,ikan laut
+360,2019-01-01,garam beryodium halus,kg,8000.0,garam
+361,2019-02-01,garam beryodium halus,kg,8000.0,garam
+362,2019-03-01,garam beryodium halus,kg,8000.0,garam
+363,2019-04-01,garam beryodium halus,kg,8000.0,garam
+364,2019-05-01,garam beryodium halus,kg,8000.0,garam
+365,2019-06-01,garam beryodium halus,kg,8000.0,garam
+366,2019-07-01,garam beryodium halus,kg,8000.0,garam
+367,2019-08-01,garam beryodium halus,kg,8000.0,garam
+368,2019-09-01,garam beryodium halus,kg,8000.0,garam
+369,2019-10-01,garam beryodium halus,kg,8000.0,garam
+370,2019-11-01,garam beryodium halus,kg,8000.0,garam
+371,2019-12-01,garam beryodium halus,kg,8000.0,garam
+372,2019-01-01,indomie ayam bawang,bungkus,2100.0,mie instant
+373,2019-02-01,indomie ayam bawang,bungkus,2100.0,mie instant
+374,2019-03-01,indomie ayam bawang,bungkus,2100.0,mie instant
+375,2019-04-01,indomie ayam bawang,bungkus,2100.0,mie instant
+376,2019-05-01,indomie ayam bawang,bungkus,2100.0,mie instant
+377,2019-06-01,indomie ayam bawang,bungkus,2100.0,mie instant
+378,2019-07-01,indomie ayam bawang,bungkus,2100.0,mie instant
+379,2019-08-01,indomie ayam bawang,bungkus,2100.0,mie instant
+380,2019-09-01,indomie ayam bawang,bungkus,2100.0,mie instant
+381,2019-10-01,indomie ayam bawang,bungkus,2100.0,mie instant
+382,2019-11-01,indomie ayam bawang,bungkus,2100.0,mie instant
+383,2019-12-01,indomie ayam bawang,bungkus,2305.33333333333,mie instant
+384,2019-01-01,kacang tanah,kg,21333.3333333333,kacang
+385,2019-02-01,kacang tanah,kg,21333.3333333333,kacang
+386,2019-03-01,kacang tanah,kg,21333.3333333333,kacang
+387,2019-04-01,kacang tanah,kg,21333.3333333333,kacang
+388,2019-05-01,kacang tanah,kg,22712.1212121212,kacang
+389,2019-06-01,kacang tanah,kg,23666.6666666667,kacang
+390,2019-07-01,kacang tanah,kg,23666.6666666667,kacang
+391,2019-08-01,kacang tanah,kg,23681.8181818182,kacang
+392,2019-09-01,kacang tanah,kg,24000.0,kacang
+393,2019-10-01,kacang tanah,kg,24000.0,kacang
+394,2019-11-01,kacang tanah,kg,24684.2105263158,kacang
+395,2019-12-01,kacang tanah,kg,25000.0,kacang
+396,2019-01-01,kacang hijau,kg,16333.3333333333,kacang
+397,2019-02-01,kacang hijau,kg,16333.3333333333,kacang
+398,2019-03-01,kacang hijau,kg,16333.3333333333,kacang
+399,2019-04-01,kacang hijau,kg,16333.3333333333,kacang
+400,2019-05-01,kacang hijau,kg,17515.1515151515,kacang
+401,2019-06-01,kacang hijau,kg,18333.3333333333,kacang
+402,2019-07-01,kacang hijau,kg,18333.3333333333,kacang
+403,2019-08-01,kacang hijau,kg,18409.0909090909,kacang
+404,2019-09-01,kacang hijau,kg,20000.0,kacang
+405,2019-10-01,kacang hijau,kg,20000.0,kacang
+406,2019-11-01,kacang hijau,kg,20000.0,kacang
+407,2019-12-01,kacang hijau,kg,18720.0,kacang
+408,2019-01-01,ketela pohon,kg,2666.66666666667,ketela pohon
+409,2019-02-01,ketela pohon,kg,2666.66666666667,ketela pohon
+410,2019-03-01,ketela pohon,kg,2991.66666666667,ketela pohon
+411,2019-04-01,ketela pohon,kg,3166.66666666667,ketela pohon
+412,2019-05-01,ketela pohon,kg,3166.66666666667,ketela pohon
+413,2019-06-01,ketela pohon,kg,3166.66666666667,ketela pohon
+414,2019-07-01,ketela pohon,kg,3166.66666666667,ketela pohon
+415,2019-08-01,ketela pohon,kg,3166.66666666667,ketela pohon
+416,2019-09-01,ketela pohon,kg,3166.66666666667,ketela pohon
+417,2019-10-01,ketela pohon,kg,3198.4126984127,ketela pohon
+418,2019-11-01,ketela pohon,kg,3166.66666666667,ketela pohon
+419,2019-12-01,ketela pohon,kg,3606.66666666667,ketela pohon
+420,2019-01-01,gula kelapa,kg,16000.0,gula
+421,2019-02-01,gula kelapa,kg,16000.0,gula
+422,2019-03-01,gula kelapa,kg,16000.0,gula
+423,2019-04-01,gula kelapa,kg,16000.0,gula
+424,2019-05-01,gula kelapa,kg,16000.0,gula
+425,2019-06-01,gula kelapa,kg,16000.0,gula
+426,2019-07-01,gula kelapa,kg,16000.0,gula
+427,2019-08-01,gula kelapa,kg,16000.0,gula
+428,2019-09-01,gula kelapa,kg,16000.0,gula
+429,2019-10-01,gula kelapa,kg,16000.0,gula
+430,2019-11-01,gula kelapa,kg,16789.4736842105,gula
+431,2019-12-01,gula kelapa,kg,17000.0,gula
+432,2020-01-01,beras ir64 (kw premium),kg,12166.6666666667,beras
+433,2020-02-01,beras ir64 (kw premium),kg,12482.4561403509,beras
+434,2020-03-01,beras ir64 (kw premium),kg,12500.0,beras
+435,2020-04-01,beras ir64 (kw premium),kg,12500.0,beras
+436,2020-05-01,beras ir64 (kw premium),kg,12500.0,beras
+437,2020-06-01,beras ir64 (kw premium),kg,12858.9065255732,beras
+438,2020-07-01,beras ir64 (kw premium),kg,12858.9065255732,beras
+439,2020-08-01,beras ir64 (kw premium),kg,13000.0,beras
+440,2020-09-01,beras ir64 (kw premium),kg,13000.0,beras
+441,2020-10-01,beras ir64 (kw premium),kg,13000.0,beras
+442,2020-11-01,beras ir64 (kw premium),kg,12523.8095238095,beras
+443,2020-12-01,beras ir64 (kw premium),kg,12500.0,beras
+444,2020-01-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+445,2020-02-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+446,2020-03-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+447,2020-04-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+448,2020-05-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+449,2020-06-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+450,2020-07-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+451,2020-08-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+452,2020-09-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+453,2020-10-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+454,2020-11-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+455,2020-12-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+456,2020-01-01,gula pasir kristal putih,kg,13630.4347826087,gula
+457,2020-02-01,gula pasir kristal putih,kg,14289.4736842105,gula
+458,2020-03-01,gula pasir kristal putih,kg,16976.1904761905,gula
+459,2020-04-01,gula pasir kristal putih,kg,17293.6507936508,gula
+460,2020-05-01,gula pasir kristal putih,kg,16131.5789473684,gula
+461,2020-06-01,gula pasir kristal putih,kg,15353.6155202822,gula
+462,2020-07-01,gula pasir kristal putih,kg,15353.6155202822,gula
+463,2020-08-01,gula pasir kristal putih,kg,12657.4074074074,gula
+464,2020-09-01,gula pasir kristal putih,kg,12657.4074074074,gula
+465,2020-10-01,gula pasir kristal putih,kg,12657.4074074074,gula
+466,2020-11-01,gula pasir kristal putih,kg,12500.0,gula
+467,2020-12-01,gula pasir kristal putih,kg,12500.0,gula
+468,2020-01-01,"minyak goreng curah, tanpa merek",liter,12782.6086956522,minyak goreng
+469,2020-02-01,"minyak goreng curah, tanpa merek",liter,12131.5789473684,minyak goreng
+470,2020-03-01,"minyak goreng curah, tanpa merek",liter,11857.1428571429,minyak goreng
+471,2020-04-01,"minyak goreng curah, tanpa merek",liter,11952.380952381,minyak goreng
+472,2020-05-01,"minyak goreng curah, tanpa merek",liter,10605.2631578947,minyak goreng
+473,2020-06-01,"minyak goreng curah, tanpa merek",liter,10500.0,minyak goreng
+474,2020-07-01,"minyak goreng curah, tanpa merek",liter,10500.0,minyak goreng
+475,2020-08-01,"minyak goreng curah, tanpa merek",liter,12250.0,minyak goreng
+476,2020-09-01,"minyak goreng curah, tanpa merek",liter,12250.0,minyak goreng
+477,2020-10-01,"minyak goreng curah, tanpa merek",liter,12250.0,minyak goreng
+478,2020-11-01,"minyak goreng curah, tanpa merek",liter,13785.7142857143,minyak goreng
+479,2020-12-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+480,2020-01-01,"minyak goreng kemasan, plastik, bimoli kl",liter,13760.8695652174,minyak goreng
+481,2020-02-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+482,2020-03-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+483,2020-04-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+484,2020-05-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+485,2020-06-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+486,2020-07-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+487,2020-08-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+488,2020-09-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+489,2020-10-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+490,2020-11-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14785.7142857143,minyak goreng
+491,2020-12-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+492,2020-01-01,minyak goreng kemasan sederhana (1 lt),liter,12782.6086956522,minyak goreng
+493,2020-02-01,minyak goreng kemasan sederhana (1 lt),liter,12131.5789473684,minyak goreng
+494,2020-03-01,minyak goreng kemasan sederhana (1 lt),liter,11952.380952381,minyak goreng
+495,2020-04-01,minyak goreng kemasan sederhana (1 lt),liter,11952.380952381,minyak goreng
+496,2020-05-01,minyak goreng kemasan sederhana (1 lt),liter,10605.2631578947,minyak goreng
+497,2020-06-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+498,2020-07-01,minyak goreng kemasan sederhana (1 lt),liter,10500.0,minyak goreng
+499,2020-08-01,minyak goreng kemasan sederhana (1 lt),liter,12250.0,minyak goreng
+500,2020-09-01,minyak goreng kemasan sederhana (1 lt),liter,12250.0,minyak goreng
+501,2020-10-01,minyak goreng kemasan sederhana (1 lt),liter,12250.0,minyak goreng
+502,2020-11-01,minyak goreng kemasan sederhana (1 lt),liter,13785.7142857143,minyak goreng
+503,2020-12-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+504,2020-01-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+505,2020-02-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+506,2020-03-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+507,2020-04-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+508,2020-05-01,"daging sapi lokal, paha depan (chuck)",kg,128070.175438596,daging sapi
+509,2020-06-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+510,2020-07-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+511,2020-08-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+512,2020-09-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+513,2020-10-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+514,2020-11-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+515,2020-12-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+516,2020-01-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+517,2020-02-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+518,2020-03-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+519,2020-04-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+520,2020-05-01,"daging sapi lokal, paha belakang",kg,128070.175438596,daging sapi
+521,2020-06-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+522,2020-07-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+523,2020-08-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+524,2020-09-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+525,2020-10-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+526,2020-11-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+527,2020-12-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+528,2020-01-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+529,2020-02-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+530,2020-03-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+531,2020-04-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+532,2020-05-01,"daging sapi lokal, has luar (sirloin)",kg,128070.175438596,daging sapi
+533,2020-06-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+534,2020-07-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+535,2020-08-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+536,2020-09-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+537,2020-10-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+538,2020-11-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+539,2020-12-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+540,2020-01-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+541,2020-02-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+542,2020-03-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+543,2020-04-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+544,2020-05-01,"daging sapi lokal, sandung lamur (brisket",kg,106491.228070175,daging sapi
+545,2020-06-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+546,2020-07-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+547,2020-08-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+548,2020-09-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+549,2020-10-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+550,2020-11-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+551,2020-12-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+552,2020-01-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+553,2020-02-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+554,2020-03-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+555,2020-04-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+556,2020-05-01,daging sapi lokal tetelan,kg,106491.228070175,daging sapi
+557,2020-06-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+558,2020-07-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+559,2020-08-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+560,2020-09-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+561,2020-10-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+562,2020-11-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+563,2020-12-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+564,2020-01-01,"daging sapi impor, beku",kg,,daging sapi
+565,2020-02-01,"daging sapi impor, beku",kg,,daging sapi
+566,2020-03-01,"daging sapi impor, beku",kg,,daging sapi
+567,2020-04-01,"daging sapi impor, beku",kg,,daging sapi
+568,2020-05-01,"daging sapi impor, beku",kg,,daging sapi
+569,2020-06-01,"daging sapi impor, beku",kg,,daging sapi
+570,2020-07-01,"daging sapi impor, beku",kg,,daging sapi
+571,2020-08-01,"daging sapi impor, beku",kg,,daging sapi
+572,2020-09-01,"daging sapi impor, beku",kg,,daging sapi
+573,2020-10-01,"daging sapi impor, beku",kg,,daging sapi
+574,2020-11-01,"daging sapi impor, beku",kg,,daging sapi
+575,2020-12-01,"daging sapi impor, beku",kg,,daging sapi
+576,2020-01-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+577,2020-02-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+578,2020-03-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+579,2020-04-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+580,2020-05-01,"daging sapi lokal, has dalam (tenderloin)",kg,128070.175438596,daging sapi
+581,2020-06-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+582,2020-07-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+583,2020-08-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+584,2020-09-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+585,2020-10-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+586,2020-11-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+587,2020-12-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+588,2020-01-01,"daging ayam broiler/ras, utuh",kg,32797.1014492754,daging ayam
+589,2020-02-01,"daging ayam broiler/ras, utuh",kg,33631.5789473684,daging ayam
+590,2020-03-01,"daging ayam broiler/ras, utuh",kg,32857.1428571429,daging ayam
+591,2020-04-01,"daging ayam broiler/ras, utuh",kg,28142.8571428571,daging ayam
+592,2020-05-01,"daging ayam broiler/ras, utuh",kg,36035.0877192983,daging ayam
+593,2020-06-01,"daging ayam broiler/ras, utuh",kg,39516.7548500882,daging ayam
+594,2020-07-01,"daging ayam broiler/ras, utuh",kg,39516.7548500882,daging ayam
+595,2020-08-01,"daging ayam broiler/ras, utuh",kg,31203.7037037037,daging ayam
+596,2020-09-01,"daging ayam broiler/ras, utuh",kg,31203.7037037037,daging ayam
+597,2020-10-01,"daging ayam broiler/ras, utuh",kg,31203.7037037037,daging ayam
+598,2020-11-01,"daging ayam broiler/ras, utuh",kg,34523.8095238095,daging ayam
+599,2020-12-01,"daging ayam broiler/ras, utuh",kg,33842.1052631579,daging ayam
+600,2020-01-01,daging ayam kampung,kg,65000.0,daging ayam
+601,2020-02-01,daging ayam kampung,kg,65000.0,daging ayam
+602,2020-03-01,daging ayam kampung,kg,65000.0,daging ayam
+603,2020-04-01,daging ayam kampung,kg,65000.0,daging ayam
+604,2020-05-01,daging ayam kampung,kg,65000.0,daging ayam
+605,2020-06-01,daging ayam kampung,kg,65000.0,daging ayam
+606,2020-07-01,daging ayam kampung,kg,65000.0,daging ayam
+607,2020-08-01,daging ayam kampung,kg,65000.0,daging ayam
+608,2020-09-01,daging ayam kampung,kg,65000.0,daging ayam
+609,2020-10-01,daging ayam kampung,kg,65000.0,daging ayam
+610,2020-11-01,daging ayam kampung,kg,65000.0,daging ayam
+611,2020-12-01,daging ayam kampung,kg,65000.0,daging ayam
+612,2020-01-01,telur ayam negeri,kg,22739.1304347826,telur
+613,2020-02-01,telur ayam negeri,kg,25122.8070175439,telur
+614,2020-03-01,telur ayam negeri,kg,25523.8095238095,telur
+615,2020-04-01,telur ayam negeri,kg,22952.380952381,telur
+616,2020-05-01,telur ayam negeri,kg,22228.0701754386,telur
+617,2020-06-01,telur ayam negeri,kg,23803.0570252792,telur
+618,2020-07-01,telur ayam negeri,kg,23803.0570252792,telur
+619,2020-08-01,telur ayam negeri,kg,24981.4814814815,telur
+620,2020-09-01,telur ayam negeri,kg,24981.4814814815,telur
+621,2020-10-01,telur ayam negeri,kg,24981.4814814815,telur
+622,2020-11-01,telur ayam negeri,kg,24904.7619047619,telur
+623,2020-12-01,telur ayam negeri,kg,27157.8947368421,telur
+624,2020-01-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+625,2020-02-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+626,2020-03-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+627,2020-04-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+628,2020-05-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+629,2020-06-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+630,2020-07-01,telur ayam kampung (per 21 biji),kg,48300.0,telur
+631,2020-08-01,telur ayam kampung (per 21 biji),kg,47600.0,telur
+632,2020-09-01,telur ayam kampung (per 21 biji),kg,47600.0,telur
+633,2020-10-01,telur ayam kampung (per 21 biji),kg,47600.0,telur
+634,2020-11-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+635,2020-12-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+636,2020-01-01,tepung terigu protein tinggi,kg,10500.0,tepung terigu (bogasari)
+637,2020-02-01,tepung terigu protein tinggi,kg,10605.2631578947,tepung terigu (bogasari)
+638,2020-03-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+639,2020-04-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+640,2020-05-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+641,2020-06-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+642,2020-07-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+643,2020-08-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+644,2020-09-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+645,2020-10-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+646,2020-11-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+647,2020-12-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+648,2020-01-01,tepung terigu protein sedang,kg,9695.65217391304,tepung terigu (bogasari)
+649,2020-02-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+650,2020-03-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+651,2020-04-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+652,2020-05-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+653,2020-06-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+654,2020-07-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+655,2020-08-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+656,2020-09-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+657,2020-10-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+658,2020-11-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+659,2020-12-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+660,2020-01-01,tepung terigu protein rendah,kg,9695.65217391304,tepung terigu (bogasari)
+661,2020-02-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+662,2020-03-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+663,2020-04-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+664,2020-05-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+665,2020-06-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+666,2020-07-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+667,2020-08-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+668,2020-09-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+669,2020-10-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+670,2020-11-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+671,2020-12-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+672,2020-01-01,kedelai kuning lokal,kg,10000.0,kedelai
+673,2020-02-01,kedelai kuning lokal,kg,10000.0,kedelai
+674,2020-03-01,kedelai kuning lokal,kg,10000.0,kedelai
+675,2020-04-01,kedelai kuning lokal,kg,10000.0,kedelai
+676,2020-05-01,kedelai kuning lokal,kg,10000.0,kedelai
+677,2020-06-01,kedelai kuning lokal,kg,10000.0,kedelai
+678,2020-07-01,kedelai kuning lokal,kg,10000.0,kedelai
+679,2020-08-01,kedelai kuning lokal,kg,10000.0,kedelai
+680,2020-09-01,kedelai kuning lokal,kg,10000.0,kedelai
+681,2020-10-01,kedelai kuning lokal,kg,10000.0,kedelai
+682,2020-11-01,kedelai kuning lokal,kg,10000.0,kedelai
+683,2020-12-01,kedelai kuning lokal,kg,10000.0,kedelai
+684,2020-01-01,kedelai ex. impor,kg,6856.52173913043,kedelai
+685,2020-02-01,kedelai ex. impor,kg,6705.26315789474,kedelai
+686,2020-03-01,kedelai ex. impor,kg,6980.95238095238,kedelai
+687,2020-04-01,kedelai ex. impor,kg,8590.47619047619,kedelai
+688,2020-05-01,kedelai ex. impor,kg,8800.0,kedelai
+689,2020-06-01,kedelai ex. impor,kg,8342.85714285714,kedelai
+690,2020-07-01,kedelai ex. impor,kg,8342.85714285714,kedelai
+691,2020-08-01,kedelai ex. impor,kg,6800.0,kedelai
+692,2020-09-01,kedelai ex. impor,kg,6800.0,kedelai
+693,2020-10-01,kedelai ex. impor,kg,6800.0,kedelai
+694,2020-11-01,kedelai ex. impor,kg,7800.0,kedelai
+695,2020-12-01,kedelai ex. impor,kg,7800.0,kedelai
+696,2020-01-01,cabai merah besar,kg,50072.4637681159,cabai
+697,2020-02-01,cabai merah besar,kg,43947.3684210526,cabai
+698,2020-03-01,cabai merah besar,kg,28698.4126984127,cabai
+699,2020-04-01,cabai merah besar,kg,18560.8465608466,cabai
+700,2020-05-01,cabai merah besar,kg,16666.6666666667,cabai
+701,2020-06-01,cabai merah besar,kg,17005.291005291,cabai
+702,2020-07-01,cabai merah besar,kg,17005.291005291,cabai
+703,2020-08-01,cabai merah besar,kg,17407.4074074074,cabai
+704,2020-09-01,cabai merah besar,kg,17407.4074074074,cabai
+705,2020-10-01,cabai merah besar,kg,17407.4074074074,cabai
+706,2020-11-01,cabai merah besar,kg,33523.8095238095,cabai
+707,2020-12-01,cabai merah besar,kg,50456.1403508772,cabai
+708,2020-01-01,cabai merah keriting,kg,50072.4637681159,cabai
+709,2020-02-01,cabai merah keriting,kg,43947.3684210526,cabai
+710,2020-03-01,cabai merah keriting,kg,28698.4126984127,cabai
+711,2020-04-01,cabai merah keriting,kg,18560.8465608466,cabai
+712,2020-05-01,cabai merah keriting,kg,16666.6666666667,cabai
+713,2020-06-01,cabai merah keriting,kg,17005.291005291,cabai
+714,2020-07-01,cabai merah keriting,kg,17005.291005291,cabai
+715,2020-08-01,cabai merah keriting,kg,17407.4074074074,cabai
+716,2020-09-01,cabai merah keriting,kg,17407.4074074074,cabai
+717,2020-10-01,cabai merah keriting,kg,17407.4074074074,cabai
+718,2020-11-01,cabai merah keriting,kg,33523.8095238095,cabai
+719,2020-12-01,cabai merah keriting,kg,50456.1403508772,cabai
+720,2020-01-01,cabai rawit merah,kg,69217.3913043478,cabai
+721,2020-02-01,cabai rawit merah,kg,50964.9122807017,cabai
+722,2020-03-01,cabai rawit merah,kg,40126.9841269841,cabai
+723,2020-04-01,cabai rawit merah,kg,28634.9206349206,cabai
+724,2020-05-01,cabai rawit merah,kg,18982.4561403509,cabai
+725,2020-06-01,cabai rawit merah,kg,18779.5414462081,cabai
+726,2020-07-01,cabai rawit merah,kg,18779.5414462081,cabai
+727,2020-08-01,cabai rawit merah,kg,16851.8518518519,cabai
+728,2020-09-01,cabai rawit merah,kg,16851.8518518519,cabai
+729,2020-10-01,cabai rawit merah,kg,16851.8518518519,cabai
+730,2020-11-01,cabai rawit merah,kg,33333.3333333333,cabai
+731,2020-12-01,cabai rawit merah,kg,48245.6140350877,cabai
+732,2020-01-01,cabai rawit hijau,kg,27478.2608695652,cabai
+733,2020-02-01,cabai rawit hijau,kg,30561.4035087719,cabai
+734,2020-03-01,cabai rawit hijau,kg,32666.6666666667,cabai
+735,2020-04-01,cabai rawit hijau,kg,27873.0158730159,cabai
+736,2020-05-01,cabai rawit hijau,kg,21298.2456140351,cabai
+737,2020-06-01,cabai rawit hijau,kg,20666.6666666667,cabai
+738,2020-07-01,cabai rawit hijau,kg,20666.6666666667,cabai
+739,2020-08-01,cabai rawit hijau,kg,20370.3703703704,cabai
+740,2020-09-01,cabai rawit hijau,kg,20370.3703703704,cabai
+741,2020-10-01,cabai rawit hijau,kg,20370.3703703704,cabai
+742,2020-11-01,cabai rawit hijau,kg,22666.6666666667,cabai
+743,2020-12-01,cabai rawit hijau,kg,25508.7719298246,cabai
+744,2020-01-01,bawang merah lokal,kg,31188.4057971014,bawang
+745,2020-02-01,bawang merah lokal,kg,29403.5087719298,bawang
+746,2020-03-01,bawang merah lokal,kg,36634.9206349206,bawang
+747,2020-04-01,bawang merah lokal,kg,44063.4920634921,bawang
+748,2020-05-01,bawang merah lokal,kg,54140.350877193,bawang
+749,2020-06-01,bawang merah lokal,kg,49901.2345679012,bawang
+750,2020-07-01,bawang merah lokal,kg,49901.2345679012,bawang
+751,2020-08-01,bawang merah lokal,kg,29037.037037037,bawang
+752,2020-09-01,bawang merah lokal,kg,29037.037037037,bawang
+753,2020-10-01,bawang merah lokal,kg,29037.037037037,bawang
+754,2020-11-01,bawang merah lokal,kg,37047.619047619,bawang
+755,2020-12-01,bawang merah lokal,kg,30771.9298245614,bawang
+756,2020-01-01,"bawang putih impor, honan",kg,26260.8695652174,bawang
+757,2020-02-01,"bawang putih impor, honan",kg,44912.2807017544,bawang
+758,2020-03-01,"bawang putih impor, honan",kg,40190.4761904762,bawang
+759,2020-04-01,"bawang putih impor, honan",kg,32518.5185185185,bawang
+760,2020-05-01,"bawang putih impor, honan",kg,27333.3333333333,bawang
+761,2020-06-01,"bawang putih impor, honan",kg,23763.6684303351,bawang
+762,2020-07-01,"bawang putih impor, honan",kg,23763.6684303351,bawang
+763,2020-08-01,"bawang putih impor, honan",kg,22000.0,bawang
+764,2020-09-01,"bawang putih impor, honan",kg,22000.0,bawang
+765,2020-10-01,"bawang putih impor, honan",kg,22000.0,bawang
+766,2020-11-01,"bawang putih impor, honan",kg,22000.0,bawang
+767,2020-12-01,"bawang putih impor, honan",kg,22000.0,bawang
+768,2020-01-01,"bawang putih impor, kating",kg,35623.1884057971,bawang
+769,2020-02-01,"bawang putih impor, kating",kg,50771.9298245614,bawang
+770,2020-03-01,"bawang putih impor, kating",kg,44349.2063492064,bawang
+771,2020-04-01,"bawang putih impor, kating",kg,35820.1058201058,bawang
+772,2020-05-01,"bawang putih impor, kating",kg,27754.3859649123,bawang
+773,2020-06-01,"bawang putih impor, kating",kg,23763.6684303351,bawang
+774,2020-07-01,"bawang putih impor, kating",kg,23763.6684303351,bawang
+775,2020-08-01,"bawang putih impor, kating",kg,24851.8518518519,bawang
+776,2020-09-01,"bawang putih impor, kating",kg,24851.8518518519,bawang
+777,2020-10-01,"bawang putih impor, kating",kg,24851.8518518519,bawang
+778,2020-11-01,"bawang putih impor, kating",kg,26666.6666666667,bawang
+779,2020-12-01,"bawang putih impor, kating",kg,26666.6666666667,bawang
+780,2020-01-01,ikan laut teri,kg,80000.0,ikan laut
+781,2020-02-01,ikan laut teri,kg,80000.0,ikan laut
+782,2020-03-01,ikan laut teri,kg,80000.0,ikan laut
+783,2020-04-01,ikan laut teri,kg,80000.0,ikan laut
+784,2020-05-01,ikan laut teri,kg,80000.0,ikan laut
+785,2020-06-01,ikan laut teri,kg,80000.0,ikan laut
+786,2020-07-01,ikan laut teri,kg,80000.0,ikan laut
+787,2020-08-01,ikan laut teri,kg,80000.0,ikan laut
+788,2020-09-01,ikan laut teri,kg,80000.0,ikan laut
+789,2020-10-01,ikan laut teri,kg,80000.0,ikan laut
+790,2020-11-01,ikan laut teri,kg,80000.0,ikan laut
+791,2020-12-01,ikan laut teri,kg,80000.0,ikan laut
+792,2020-01-01,garam beryodium halus,kg,8000.0,garam
+793,2020-02-01,garam beryodium halus,kg,8000.0,garam
+794,2020-03-01,garam beryodium halus,kg,8000.0,garam
+795,2020-04-01,garam beryodium halus,kg,8000.0,garam
+796,2020-05-01,garam beryodium halus,kg,8000.0,garam
+797,2020-06-01,garam beryodium halus,kg,8000.0,garam
+798,2020-07-01,garam beryodium halus,kg,8000.0,garam
+799,2020-08-01,garam beryodium halus,kg,8000.0,garam
+800,2020-09-01,garam beryodium halus,kg,8000.0,garam
+801,2020-10-01,garam beryodium halus,kg,8000.0,garam
+802,2020-11-01,garam beryodium halus,kg,8000.0,garam
+803,2020-12-01,garam beryodium halus,kg,8000.0,garam
+804,2020-01-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+805,2020-02-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+806,2020-03-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+807,2020-04-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+808,2020-05-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+809,2020-06-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+810,2020-07-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+811,2020-08-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+812,2020-09-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+813,2020-10-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+814,2020-11-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+815,2020-12-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+816,2020-01-01,kacang tanah,kg,25000.0,kacang
+817,2020-02-01,kacang tanah,kg,25000.0,kacang
+818,2020-03-01,kacang tanah,kg,25571.4285714286,kacang
+819,2020-04-01,kacang tanah,kg,28000.0,kacang
+820,2020-05-01,kacang tanah,kg,28000.0,kacang
+821,2020-06-01,kacang tanah,kg,28000.0,kacang
+822,2020-07-01,kacang tanah,kg,28000.0,kacang
+823,2020-08-01,kacang tanah,kg,27111.1111111111,kacang
+824,2020-09-01,kacang tanah,kg,27111.1111111111,kacang
+825,2020-10-01,kacang tanah,kg,27111.1111111111,kacang
+826,2020-11-01,kacang tanah,kg,26000.0,kacang
+827,2020-12-01,kacang tanah,kg,26000.0,kacang
+828,2020-01-01,kacang hijau,kg,18000.0,kacang
+829,2020-02-01,kacang hijau,kg,18000.0,kacang
+830,2020-03-01,kacang hijau,kg,18000.0,kacang
+831,2020-04-01,kacang hijau,kg,22095.2380952381,kacang
+832,2020-05-01,kacang hijau,kg,24736.8421052632,kacang
+833,2020-06-01,kacang hijau,kg,26000.0,kacang
+834,2020-07-01,kacang hijau,kg,26000.0,kacang
+835,2020-08-01,kacang hijau,kg,25000.0,kacang
+836,2020-09-01,kacang hijau,kg,25000.0,kacang
+837,2020-10-01,kacang hijau,kg,25000.0,kacang
+838,2020-11-01,kacang hijau,kg,22000.0,kacang
+839,2020-12-01,kacang hijau,kg,22000.0,kacang
+840,2020-01-01,ketela pohon,kg,3666.66666666667,ketela pohon
+841,2020-02-01,ketela pohon,kg,3666.66666666667,ketela pohon
+842,2020-03-01,ketela pohon,kg,3666.66666666667,ketela pohon
+843,2020-04-01,ketela pohon,kg,3666.66666666667,ketela pohon
+844,2020-05-01,ketela pohon,kg,3666.66666666667,ketela pohon
+845,2020-06-01,ketela pohon,kg,3666.66666666667,ketela pohon
+846,2020-07-01,ketela pohon,kg,3666.66666666667,ketela pohon
+847,2020-08-01,ketela pohon,kg,3666.66666666667,ketela pohon
+848,2020-09-01,ketela pohon,kg,3666.66666666667,ketela pohon
+849,2020-10-01,ketela pohon,kg,3666.66666666667,ketela pohon
+850,2020-11-01,ketela pohon,kg,3666.66666666667,ketela pohon
+851,2020-12-01,ketela pohon,kg,3666.66666666667,ketela pohon
+852,2020-01-01,gula kelapa,kg,17000.0,gula
+853,2020-02-01,gula kelapa,kg,16947.3684210526,gula
+854,2020-03-01,gula kelapa,kg,16000.0,gula
+855,2020-04-01,gula kelapa,kg,16095.2380952381,gula
+856,2020-05-01,gula kelapa,kg,17000.0,gula
+857,2020-06-01,gula kelapa,kg,17000.0,gula
+858,2020-07-01,gula kelapa,kg,17000.0,gula
+859,2020-08-01,gula kelapa,kg,16111.1111111111,gula
+860,2020-09-01,gula kelapa,kg,16111.1111111111,gula
+861,2020-10-01,gula kelapa,kg,16111.1111111111,gula
+862,2020-11-01,gula kelapa,kg,17000.0,gula
+863,2020-12-01,gula kelapa,kg,17000.0,gula
+864,2021-01-01,beras ir64 (kw premium),kg,12500.0,beras
+865,2021-02-01,beras ir64 (kw premium),kg,12500.0,beras
+866,2021-03-01,beras ir64 (kw premium),kg,12500.0,beras
+867,2021-04-01,beras ir64 (kw premium),kg,12500.0,beras
+868,2021-05-01,beras ir64 (kw premium),kg,12444.4444444444,beras
+869,2021-06-01,beras ir64 (kw premium),kg,12000.0,beras
+870,2021-07-01,beras ir64 (kw premium),kg,12000.0,beras
+871,2021-08-01,beras ir64 (kw premium),kg,12000.0,beras
+872,2021-09-01,beras ir64 (kw premium),kg,12000.0,beras
+873,2021-10-01,beras ir64 (kw premium),kg,12000.0,beras
+874,2021-11-01,beras ir64 (kw premium),kg,12000.0,beras
+875,2021-12-01,beras ir64 (kw premium),kg,12000.0,beras
+876,2021-01-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+877,2021-02-01,beras ir64 (kw medium),kg,9666.66666666667,beras
+878,2021-03-01,beras ir64 (kw medium),kg,9700.0,beras
+879,2021-04-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+880,2021-05-01,beras ir64 (kw medium),kg,9611.11111111111,beras
+881,2021-06-01,beras ir64 (kw medium),kg,9149.12280701754,beras
+882,2021-07-01,beras ir64 (kw medium),kg,9149.12280701754,beras
+883,2021-08-01,beras ir64 (kw medium),kg,9166.66666666667,beras
+884,2021-09-01,beras ir64 (kw medium),kg,9166.66666666666,beras
+885,2021-10-01,beras ir64 (kw medium),kg,9166.66666666667,beras
+886,2021-11-01,beras ir64 (kw medium),kg,9507.57575757575,beras
+887,2021-12-01,beras ir64 (kw medium),kg,9666.66666666666,beras
+888,2021-01-01,gula pasir kristal putih,kg,12500.0,gula
+889,2021-02-01,gula pasir kristal putih,kg,12500.0,gula
+890,2021-03-01,gula pasir kristal putih,kg,12500.0,gula
+891,2021-04-01,gula pasir kristal putih,kg,12500.0,gula
+892,2021-05-01,gula pasir kristal putih,kg,12500.0,gula
+893,2021-06-01,gula pasir kristal putih,kg,12500.0,gula
+894,2021-07-01,gula pasir kristal putih,kg,12500.0,gula
+895,2021-08-01,gula pasir kristal putih,kg,12500.0,gula
+896,2021-09-01,gula pasir kristal putih,kg,12500.0,gula
+897,2021-10-01,gula pasir kristal putih,kg,12500.0,gula
+898,2021-11-01,gula pasir kristal putih,kg,12500.0,gula
+899,2021-12-01,gula pasir kristal putih,kg,12500.0,gula
+900,2021-01-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+901,2021-02-01,"minyak goreng curah, tanpa merek",liter,13117.6470588235,minyak goreng
+902,2021-03-01,"minyak goreng curah, tanpa merek",liter,13425.0,minyak goreng
+903,2021-04-01,"minyak goreng curah, tanpa merek",liter,12721.0526315789,minyak goreng
+904,2021-05-01,"minyak goreng curah, tanpa merek",liter,13319.4444444444,minyak goreng
+905,2021-06-01,"minyak goreng curah, tanpa merek",liter,13523.6842105263,minyak goreng
+906,2021-07-01,"minyak goreng curah, tanpa merek",liter,13523.6842105263,minyak goreng
+907,2021-08-01,"minyak goreng curah, tanpa merek",liter,14500.0,minyak goreng
+908,2021-09-01,"minyak goreng curah, tanpa merek",liter,14500.0,minyak goreng
+909,2021-10-01,"minyak goreng curah, tanpa merek",liter,15550.0,minyak goreng
+910,2021-11-01,"minyak goreng curah, tanpa merek",liter,16000.0,minyak goreng
+911,2021-12-01,"minyak goreng curah, tanpa merek",liter,16000.0,minyak goreng
+912,2021-01-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+913,2021-02-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+914,2021-03-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+915,2021-04-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+916,2021-05-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+917,2021-06-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+918,2021-07-01,"minyak goreng kemasan, plastik, bimoli kl",liter,15000.0,minyak goreng
+919,2021-08-01,"minyak goreng kemasan, plastik, bimoli kl",liter,16000.0,minyak goreng
+920,2021-09-01,"minyak goreng kemasan, plastik, bimoli kl",liter,16000.0,minyak goreng
+921,2021-10-01,"minyak goreng kemasan, plastik, bimoli kl",liter,16800.0,minyak goreng
+922,2021-11-01,"minyak goreng kemasan, plastik, bimoli kl",liter,18590.9090909091,minyak goreng
+923,2021-12-01,"minyak goreng kemasan, plastik, bimoli kl",liter,19586.9565217391,minyak goreng
+924,2021-01-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+925,2021-02-01,minyak goreng kemasan sederhana (1 lt),liter,13117.6470588235,minyak goreng
+926,2021-03-01,minyak goreng kemasan sederhana (1 lt),liter,13425.0,minyak goreng
+927,2021-04-01,minyak goreng kemasan sederhana (1 lt),liter,13973.6842105263,minyak goreng
+928,2021-05-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+929,2021-06-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+930,2021-07-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+931,2021-08-01,minyak goreng kemasan sederhana (1 lt),liter,15000.0,minyak goreng
+932,2021-09-01,minyak goreng kemasan sederhana (1 lt),liter,15000.0,minyak goreng
+933,2021-10-01,minyak goreng kemasan sederhana (1 lt),liter,15700.0,minyak goreng
+934,2021-11-01,minyak goreng kemasan sederhana (1 lt),liter,16000.0,minyak goreng
+935,2021-12-01,minyak goreng kemasan sederhana (1 lt),liter,16000.0,minyak goreng
+936,2021-01-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+937,2021-02-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+938,2021-03-01,"daging sapi lokal, paha depan (chuck)",kg,124000.0,daging sapi
+939,2021-04-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+940,2021-05-01,"daging sapi lokal, paha depan (chuck)",kg,129814.814814815,daging sapi
+941,2021-06-01,"daging sapi lokal, paha depan (chuck)",kg,122982.456140351,daging sapi
+942,2021-07-01,"daging sapi lokal, paha depan (chuck)",kg,122982.456140351,daging sapi
+943,2021-08-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+944,2021-09-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+945,2021-10-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+946,2021-11-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+947,2021-12-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+948,2021-01-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+949,2021-02-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+950,2021-03-01,"daging sapi lokal, paha belakang",kg,124000.0,daging sapi
+951,2021-04-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+952,2021-05-01,"daging sapi lokal, paha belakang",kg,129814.814814815,daging sapi
+953,2021-06-01,"daging sapi lokal, paha belakang",kg,122982.456140351,daging sapi
+954,2021-07-01,"daging sapi lokal, paha belakang",kg,122982.456140351,daging sapi
+955,2021-08-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+956,2021-09-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+957,2021-10-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+958,2021-11-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+959,2021-12-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+960,2021-01-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+961,2021-02-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+962,2021-03-01,"daging sapi lokal, has luar (sirloin)",kg,124000.0,daging sapi
+963,2021-04-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+964,2021-05-01,"daging sapi lokal, has luar (sirloin)",kg,129814.814814815,daging sapi
+965,2021-06-01,"daging sapi lokal, has luar (sirloin)",kg,122982.456140351,daging sapi
+966,2021-07-01,"daging sapi lokal, has luar (sirloin)",kg,122982.456140351,daging sapi
+967,2021-08-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+968,2021-09-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+969,2021-10-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+970,2021-11-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+971,2021-12-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+972,2021-01-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+973,2021-02-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+974,2021-03-01,"daging sapi lokal, sandung lamur (brisket",kg,104000.0,daging sapi
+975,2021-04-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+976,2021-05-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+977,2021-06-01,"daging sapi lokal, sandung lamur (brisket",kg,102982.456140351,daging sapi
+978,2021-07-01,"daging sapi lokal, sandung lamur (brisket",kg,102982.456140351,daging sapi
+979,2021-08-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+980,2021-09-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+981,2021-10-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+982,2021-11-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+983,2021-12-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+984,2021-01-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+985,2021-02-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+986,2021-03-01,daging sapi lokal tetelan,kg,104000.0,daging sapi
+987,2021-04-01,daging sapi lokal tetelan,kg,103333.333333333,daging sapi
+988,2021-05-01,daging sapi lokal tetelan,kg,111481.481481481,daging sapi
+989,2021-06-01,daging sapi lokal tetelan,kg,112982.456140351,daging sapi
+990,2021-07-01,daging sapi lokal tetelan,kg,112982.456140351,daging sapi
+991,2021-08-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+992,2021-09-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+993,2021-10-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+994,2021-11-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+995,2021-12-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+996,2021-01-01,"daging sapi impor, beku",kg,85000.0,daging sapi
+997,2021-02-01,"daging sapi impor, beku",kg,85000.0,daging sapi
+998,2021-03-01,"daging sapi impor, beku",kg,85000.0,daging sapi
+999,2021-04-01,"daging sapi impor, beku",kg,85000.0,daging sapi
+1000,2021-05-01,"daging sapi impor, beku",kg,97500.0,daging sapi
+1001,2021-06-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1002,2021-07-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1003,2021-08-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1004,2021-09-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1005,2021-10-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1006,2021-11-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1007,2021-12-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1008,2021-01-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1009,2021-02-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1010,2021-03-01,"daging sapi lokal, has dalam (tenderloin)",kg,124000.0,daging sapi
+1011,2021-04-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1012,2021-05-01,"daging sapi lokal, has dalam (tenderloin)",kg,129814.814814815,daging sapi
+1013,2021-06-01,"daging sapi lokal, has dalam (tenderloin)",kg,122982.456140351,daging sapi
+1014,2021-07-01,"daging sapi lokal, has dalam (tenderloin)",kg,122982.456140351,daging sapi
+1015,2021-08-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1016,2021-09-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1017,2021-10-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1018,2021-11-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1019,2021-12-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1020,2021-01-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1021,2021-02-01,"daging ayam broiler/ras, utuh",kg,32470.5882352941,daging ayam
+1022,2021-03-01,"daging ayam broiler/ras, utuh",kg,33433.3333333334,daging ayam
+1023,2021-04-01,"daging ayam broiler/ras, utuh",kg,38561.4035087719,daging ayam
+1024,2021-05-01,"daging ayam broiler/ras, utuh",kg,38000.0,daging ayam
+1025,2021-06-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1026,2021-07-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1027,2021-08-01,"daging ayam broiler/ras, utuh",kg,32444.4444444444,daging ayam
+1028,2021-09-01,"daging ayam broiler/ras, utuh",kg,33727.2727272727,daging ayam
+1029,2021-10-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1030,2021-11-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1031,2021-12-01,"daging ayam broiler/ras, utuh",kg,34434.7826086957,daging ayam
+1032,2021-01-01,daging ayam kampung,kg,65000.0,daging ayam
+1033,2021-02-01,daging ayam kampung,kg,65000.0,daging ayam
+1034,2021-03-01,daging ayam kampung,kg,65000.0,daging ayam
+1035,2021-04-01,daging ayam kampung,kg,67807.0175438597,daging ayam
+1036,2021-05-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1037,2021-06-01,daging ayam kampung,kg,71491.2280701754,daging ayam
+1038,2021-07-01,daging ayam kampung,kg,71491.2280701754,daging ayam
+1039,2021-08-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1040,2021-09-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1041,2021-10-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1042,2021-11-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1043,2021-12-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1044,2021-01-01,telur ayam negeri,kg,23333.3333333333,telur
+1045,2021-02-01,telur ayam negeri,kg,24117.6470588235,telur
+1046,2021-03-01,telur ayam negeri,kg,22950.0,telur
+1047,2021-04-01,telur ayam negeri,kg,24631.5789473684,telur
+1048,2021-05-01,telur ayam negeri,kg,23722.2222222222,telur
+1049,2021-06-01,telur ayam negeri,kg,23947.3684210526,telur
+1050,2021-07-01,telur ayam negeri,kg,23947.3684210526,telur
+1051,2021-08-01,telur ayam negeri,kg,23092.5925925926,telur
+1052,2021-09-01,telur ayam negeri,kg,20106.0606060606,telur
+1053,2021-10-01,telur ayam negeri,kg,19116.6666666667,telur
+1054,2021-11-01,telur ayam negeri,kg,22984.8484848485,telur
+1055,2021-12-01,telur ayam negeri,kg,26318.8405797101,telur
+1056,2021-01-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1057,2021-02-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1058,2021-03-01,telur ayam kampung (per 21 biji),kg,49980.0,telur
+1059,2021-04-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1060,2021-05-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1061,2021-06-01,telur ayam kampung (per 21 biji),kg,49552.6315789474,telur
+1062,2021-07-01,telur ayam kampung (per 21 biji),kg,49552.6315789474,telur
+1063,2021-08-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1064,2021-09-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1065,2021-10-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1066,2021-11-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1067,2021-12-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1068,2021-01-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1069,2021-02-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1070,2021-03-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1071,2021-04-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1072,2021-05-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1073,2021-06-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1074,2021-07-01,tepung terigu protein tinggi,kg,11000.0,tepung terigu (bogasari)
+1075,2021-08-01,tepung terigu protein tinggi,kg,12000.0,tepung terigu (bogasari)
+1076,2021-09-01,tepung terigu protein tinggi,kg,12000.0,tepung terigu (bogasari)
+1077,2021-10-01,tepung terigu protein tinggi,kg,12000.0,tepung terigu (bogasari)
+1078,2021-11-01,tepung terigu protein tinggi,kg,12000.0,tepung terigu (bogasari)
+1079,2021-12-01,tepung terigu protein tinggi,kg,12000.0,tepung terigu (bogasari)
+1080,2021-01-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1081,2021-02-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1082,2021-03-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1083,2021-04-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1084,2021-05-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1085,2021-06-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1086,2021-07-01,tepung terigu protein sedang,kg,10000.0,tepung terigu (bogasari)
+1087,2021-08-01,tepung terigu protein sedang,kg,11500.0,tepung terigu (bogasari)
+1088,2021-09-01,tepung terigu protein sedang,kg,11500.0,tepung terigu (bogasari)
+1089,2021-10-01,tepung terigu protein sedang,kg,11500.0,tepung terigu (bogasari)
+1090,2021-11-01,tepung terigu protein sedang,kg,11500.0,tepung terigu (bogasari)
+1091,2021-12-01,tepung terigu protein sedang,kg,11500.0,tepung terigu (bogasari)
+1092,2021-01-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1093,2021-02-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1094,2021-03-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1095,2021-04-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1096,2021-05-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1097,2021-06-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1098,2021-07-01,tepung terigu protein rendah,kg,10000.0,tepung terigu (bogasari)
+1099,2021-08-01,tepung terigu protein rendah,kg,11000.0,tepung terigu (bogasari)
+1100,2021-09-01,tepung terigu protein rendah,kg,11000.0,tepung terigu (bogasari)
+1101,2021-10-01,tepung terigu protein rendah,kg,11000.0,tepung terigu (bogasari)
+1102,2021-11-01,tepung terigu protein rendah,kg,11000.0,tepung terigu (bogasari)
+1103,2021-12-01,tepung terigu protein rendah,kg,11000.0,tepung terigu (bogasari)
+1104,2021-01-01,kedelai kuning lokal,kg,20000.0,kedelai
+1105,2021-02-01,kedelai kuning lokal,kg,20000.0,kedelai
+1106,2021-03-01,kedelai kuning lokal,kg,20000.0,kedelai
+1107,2021-04-01,kedelai kuning lokal,kg,20000.0,kedelai
+1108,2021-05-01,kedelai kuning lokal,kg,20000.0,kedelai
+1109,2021-06-01,kedelai kuning lokal,kg,20000.0,kedelai
+1110,2021-07-01,kedelai kuning lokal,kg,20000.0,kedelai
+1111,2021-08-01,kedelai kuning lokal,kg,20000.0,kedelai
+1112,2021-09-01,kedelai kuning lokal,kg,20000.0,kedelai
+1113,2021-10-01,kedelai kuning lokal,kg,20000.0,kedelai
+1114,2021-11-01,kedelai kuning lokal,kg,20000.0,kedelai
+1115,2021-12-01,kedelai kuning lokal,kg,20000.0,kedelai
+1116,2021-01-01,kedelai ex. impor,kg,9300.0,kedelai
+1117,2021-02-01,kedelai ex. impor,kg,9776.47058823529,kedelai
+1118,2021-03-01,kedelai ex. impor,kg,9900.0,kedelai
+1119,2021-04-01,kedelai ex. impor,kg,9900.0,kedelai
+1120,2021-05-01,kedelai ex. impor,kg,9900.0,kedelai
+1121,2021-06-01,kedelai ex. impor,kg,10942.1052631579,kedelai
+1122,2021-07-01,kedelai ex. impor,kg,10942.1052631579,kedelai
+1123,2021-08-01,kedelai ex. impor,kg,10000.0,kedelai
+1124,2021-09-01,kedelai ex. impor,kg,10000.0,kedelai
+1125,2021-10-01,kedelai ex. impor,kg,10000.0,kedelai
+1126,2021-11-01,kedelai ex. impor,kg,10000.0,kedelai
+1127,2021-12-01,kedelai ex. impor,kg,10000.0,kedelai
+1128,2021-01-01,cabai merah besar,kg,39111.1111111111,cabai
+1129,2021-02-01,cabai merah besar,kg,49019.6078431372,cabai
+1130,2021-03-01,cabai merah besar,kg,47000.0,cabai
+1131,2021-04-01,cabai merah besar,kg,33263.1578947368,cabai
+1132,2021-05-01,cabai merah besar,kg,27851.8518518518,cabai
+1133,2021-06-01,cabai merah besar,kg,19719.298245614,cabai
+1134,2021-07-01,cabai merah besar,kg,19719.298245614,cabai
+1135,2021-08-01,cabai merah besar,kg,15333.3333333333,cabai
+1136,2021-09-01,cabai merah besar,kg,18060.6060606061,cabai
+1137,2021-10-01,cabai merah besar,kg,29033.3333333333,cabai
+1138,2021-11-01,cabai merah besar,kg,37575.7575757576,cabai
+1139,2021-12-01,cabai merah besar,kg,37420.2898550725,cabai
+1140,2021-01-01,cabai merah keriting,kg,39111.1111111111,cabai
+1141,2021-02-01,cabai merah keriting,kg,49019.6078431372,cabai
+1142,2021-03-01,cabai merah keriting,kg,47000.0,cabai
+1143,2021-04-01,cabai merah keriting,kg,33263.1578947368,cabai
+1144,2021-05-01,cabai merah keriting,kg,27851.8518518518,cabai
+1145,2021-06-01,cabai merah keriting,kg,19719.298245614,cabai
+1146,2021-07-01,cabai merah keriting,kg,19719.298245614,cabai
+1147,2021-08-01,cabai merah keriting,kg,15333.3333333333,cabai
+1148,2021-09-01,cabai merah keriting,kg,18060.6060606061,cabai
+1149,2021-10-01,cabai merah keriting,kg,29033.3333333333,cabai
+1150,2021-11-01,cabai merah keriting,kg,37575.7575757576,cabai
+1151,2021-12-01,cabai merah keriting,kg,37420.2898550725,cabai
+1152,2021-01-01,cabai rawit merah,kg,71888.8888888889,cabai
+1153,2021-02-01,cabai rawit merah,kg,80078.431372549,cabai
+1154,2021-03-01,cabai rawit merah,kg,96000.0,cabai
+1155,2021-04-01,cabai rawit merah,kg,50701.7543859649,cabai
+1156,2021-05-01,cabai rawit merah,kg,41740.7407407408,cabai
+1157,2021-06-01,cabai rawit merah,kg,34982.4561403509,cabai
+1158,2021-07-01,cabai rawit merah,kg,34982.4561403509,cabai
+1159,2021-08-01,cabai rawit merah,kg,18888.8888888889,cabai
+1160,2021-09-01,cabai rawit merah,kg,19151.5151515151,cabai
+1161,2021-10-01,cabai rawit merah,kg,24266.6666666667,cabai
+1162,2021-11-01,cabai rawit merah,kg,27151.5151515151,cabai
+1163,2021-12-01,cabai rawit merah,kg,68898.5507246377,cabai
+1164,2021-01-01,cabai rawit hijau,kg,54666.6666666667,cabai
+1165,2021-02-01,cabai rawit hijau,kg,66431.3725490196,cabai
+1166,2021-03-01,cabai rawit hijau,kg,57600.0,cabai
+1167,2021-04-01,cabai rawit hijau,kg,46912.2807017544,cabai
+1168,2021-05-01,cabai rawit hijau,kg,32444.4444444444,cabai
+1169,2021-06-01,cabai rawit hijau,kg,25192.9824561403,cabai
+1170,2021-07-01,cabai rawit hijau,kg,25192.9824561403,cabai
+1171,2021-08-01,cabai rawit hijau,kg,23111.1111111111,cabai
+1172,2021-09-01,cabai rawit hijau,kg,19272.7272727273,cabai
+1173,2021-10-01,cabai rawit hijau,kg,25133.3333333333,cabai
+1174,2021-11-01,cabai rawit hijau,kg,25333.3333333333,cabai
+1175,2021-12-01,cabai rawit hijau,kg,41492.7536231884,cabai
+1176,2021-01-01,bawang merah lokal,kg,28888.8888888889,bawang
+1177,2021-02-01,bawang merah lokal,kg,31960.7843137255,bawang
+1178,2021-03-01,bawang merah lokal,kg,36800.0,bawang
+1179,2021-04-01,bawang merah lokal,kg,32666.6666666667,bawang
+1180,2021-05-01,bawang merah lokal,kg,31777.7777777778,bawang
+1181,2021-06-01,bawang merah lokal,kg,29964.9122807018,bawang
+1182,2021-07-01,bawang merah lokal,kg,29964.9122807018,bawang
+1183,2021-08-01,bawang merah lokal,kg,31629.6296296296,bawang
+1184,2021-09-01,bawang merah lokal,kg,26848.4848484849,bawang
+1185,2021-10-01,bawang merah lokal,kg,26733.3333333333,bawang
+1186,2021-11-01,bawang merah lokal,kg,22090.9090909091,bawang
+1187,2021-12-01,bawang merah lokal,kg,26492.7536231884,bawang
+1188,2021-01-01,"bawang putih impor, honan",kg,22000.0,bawang
+1189,2021-02-01,"bawang putih impor, honan",kg,24745.0980392157,bawang
+1190,2021-03-01,"bawang putih impor, honan",kg,25500.0,bawang
+1191,2021-04-01,"bawang putih impor, honan",kg,24666.6666666667,bawang
+1192,2021-05-01,"bawang putih impor, honan",kg,24666.6666666667,bawang
+1193,2021-06-01,"bawang putih impor, honan",kg,24596.4912280702,bawang
+1194,2021-07-01,"bawang putih impor, honan",kg,24596.4912280702,bawang
+1195,2021-08-01,"bawang putih impor, honan",kg,24666.6666666667,bawang
+1196,2021-09-01,"bawang putih impor, honan",kg,22939.3939393939,bawang
+1197,2021-10-01,"bawang putih impor, honan",kg,22666.6666666667,bawang
+1198,2021-11-01,"bawang putih impor, honan",kg,22666.6666666667,bawang
+1199,2021-12-01,"bawang putih impor, honan",kg,22666.6666666667,bawang
+1200,2021-01-01,"bawang putih impor, kating",kg,26666.6666666667,bawang
+1201,2021-02-01,"bawang putih impor, kating",kg,29137.2549019608,bawang
+1202,2021-03-01,"bawang putih impor, kating",kg,29100.0,bawang
+1203,2021-04-01,"bawang putih impor, kating",kg,28666.6666666667,bawang
+1204,2021-05-01,"bawang putih impor, kating",kg,27333.3333333333,bawang
+1205,2021-06-01,"bawang putih impor, kating",kg,26596.4912280702,bawang
+1206,2021-07-01,"bawang putih impor, kating",kg,26596.4912280702,bawang
+1207,2021-08-01,"bawang putih impor, kating",kg,28666.6666666667,bawang
+1208,2021-09-01,"bawang putih impor, kating",kg,27181.8181818182,bawang
+1209,2021-10-01,"bawang putih impor, kating",kg,28000.0,bawang
+1210,2021-11-01,"bawang putih impor, kating",kg,28000.0,bawang
+1211,2021-12-01,"bawang putih impor, kating",kg,28695.652173913,bawang
+1212,2021-01-01,ikan laut teri,kg,80000.0,ikan laut
+1213,2021-02-01,ikan laut teri,kg,80000.0,ikan laut
+1214,2021-03-01,ikan laut teri,kg,80000.0,ikan laut
+1215,2021-04-01,ikan laut teri,kg,80000.0,ikan laut
+1216,2021-05-01,ikan laut teri,kg,80000.0,ikan laut
+1217,2021-06-01,ikan laut teri,kg,80000.0,ikan laut
+1218,2021-07-01,ikan laut teri,kg,80000.0,ikan laut
+1219,2021-08-01,ikan laut teri,kg,80000.0,ikan laut
+1220,2021-09-01,ikan laut teri,kg,80000.0,ikan laut
+1221,2021-10-01,ikan laut teri,kg,80000.0,ikan laut
+1222,2021-11-01,ikan laut teri,kg,80000.0,ikan laut
+1223,2021-12-01,ikan laut teri,kg,80000.0,ikan laut
+1224,2021-01-01,garam beryodium halus,kg,8000.0,garam
+1225,2021-02-01,garam beryodium halus,kg,8000.0,garam
+1226,2021-03-01,garam beryodium halus,kg,8000.0,garam
+1227,2021-04-01,garam beryodium halus,kg,8000.0,garam
+1228,2021-05-01,garam beryodium halus,kg,8000.0,garam
+1229,2021-06-01,garam beryodium halus,kg,8000.0,garam
+1230,2021-07-01,garam beryodium halus,kg,8000.0,garam
+1231,2021-08-01,garam beryodium halus,kg,8000.0,garam
+1232,2021-09-01,garam beryodium halus,kg,8000.0,garam
+1233,2021-10-01,garam beryodium halus,kg,8000.0,garam
+1234,2021-11-01,garam beryodium halus,kg,8000.0,garam
+1235,2021-12-01,garam beryodium halus,kg,8000.0,garam
+1236,2021-01-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1237,2021-02-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1238,2021-03-01,indomie ayam bawang,bungkus,2340.0,mie instant
+1239,2021-04-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1240,2021-05-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1241,2021-06-01,indomie ayam bawang,bungkus,2329.82456140351,mie instant
+1242,2021-07-01,indomie ayam bawang,bungkus,2329.82456140351,mie instant
+1243,2021-08-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1244,2021-09-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1245,2021-10-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1246,2021-11-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1247,2021-12-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1248,2021-01-01,kacang tanah,kg,26000.0,kacang
+1249,2021-02-01,kacang tanah,kg,26000.0,kacang
+1250,2021-03-01,kacang tanah,kg,26000.0,kacang
+1251,2021-04-01,kacang tanah,kg,26947.3684210526,kacang
+1252,2021-05-01,kacang tanah,kg,28000.0,kacang
+1253,2021-06-01,kacang tanah,kg,28000.0,kacang
+1254,2021-07-01,kacang tanah,kg,28000.0,kacang
+1255,2021-08-01,kacang tanah,kg,28000.0,kacang
+1256,2021-09-01,kacang tanah,kg,28000.0,kacang
+1257,2021-10-01,kacang tanah,kg,28000.0,kacang
+1258,2021-11-01,kacang tanah,kg,28000.0,kacang
+1259,2021-12-01,kacang tanah,kg,28000.0,kacang
+1260,2021-01-01,kacang hijau,kg,22000.0,kacang
+1261,2021-02-01,kacang hijau,kg,22000.0,kacang
+1262,2021-03-01,kacang hijau,kg,22000.0,kacang
+1263,2021-04-01,kacang hijau,kg,22000.0,kacang
+1264,2021-05-01,kacang hijau,kg,22000.0,kacang
+1265,2021-06-01,kacang hijau,kg,22000.0,kacang
+1266,2021-07-01,kacang hijau,kg,22000.0,kacang
+1267,2021-08-01,kacang hijau,kg,22000.0,kacang
+1268,2021-09-01,kacang hijau,kg,22000.0,kacang
+1269,2021-10-01,kacang hijau,kg,22000.0,kacang
+1270,2021-11-01,kacang hijau,kg,22000.0,kacang
+1271,2021-12-01,kacang hijau,kg,22000.0,kacang
+1272,2021-01-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1273,2021-02-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1274,2021-03-01,ketela pohon,kg,3700.0,ketela pohon
+1275,2021-04-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1276,2021-05-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1277,2021-06-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1278,2021-07-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1279,2021-08-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1280,2021-09-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1281,2021-10-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1282,2021-11-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1283,2021-12-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1284,2021-01-01,gula kelapa,kg,17000.0,gula
+1285,2021-02-01,gula kelapa,kg,17000.0,gula
+1286,2021-03-01,gula kelapa,kg,17000.0,gula
+1287,2021-04-01,gula kelapa,kg,17000.0,gula
+1288,2021-05-01,gula kelapa,kg,17000.0,gula
+1289,2021-06-01,gula kelapa,kg,17000.0,gula
+1290,2021-07-01,gula kelapa,kg,17000.0,gula
+1291,2021-08-01,gula kelapa,kg,17000.0,gula
+1292,2021-09-01,gula kelapa,kg,17000.0,gula
+1293,2021-10-01,gula kelapa,kg,17000.0,gula
+1294,2021-11-01,gula kelapa,kg,17000.0,gula
+1295,2021-12-01,gula kelapa,kg,17000.0,gula
+1296,2022-01-01,beras ir64 (kw premium),kg,12380.9523809524,beras
+1297,2022-02-01,beras ir64 (kw premium),kg,12500.0,beras
+1298,2022-03-01,beras ir64 (kw premium),kg,12500.0,beras
+1299,2022-04-01,beras ir64 (kw premium),kg,12500.0,beras
+1300,2022-05-01,beras ir64 (kw premium),kg,12500.0,beras
+1301,2022-06-01,beras ir64 (kw premium),kg,12500.0,beras
+1302,2022-07-01,beras ir64 (kw premium),kg,12500.0,beras
+1303,2022-08-01,beras ir64 (kw premium),kg,12227.2727272727,beras
+1304,2022-09-01,beras ir64 (kw premium),kg,12090.9090909091,beras
+1305,2022-10-01,beras ir64 (kw premium),kg,12438.0952380952,beras
+1306,2022-11-01,beras ir64 (kw premium),kg,12800.0,beras
+1307,2022-12-01,beras ir64 (kw premium),kg,12860.0,beras
+1308,2022-01-01,beras ir64 (kw medium),kg,10380.9523809524,beras
+1309,2022-02-01,beras ir64 (kw medium),kg,10500.0,beras
+1310,2022-03-01,beras ir64 (kw medium),kg,10500.0,beras
+1311,2022-04-01,beras ir64 (kw medium),kg,10350.0,beras
+1312,2022-05-01,beras ir64 (kw medium),kg,10000.0,beras
+1313,2022-06-01,beras ir64 (kw medium),kg,10000.0,beras
+1314,2022-07-01,beras ir64 (kw medium),kg,9595.2380952381,beras
+1315,2022-08-01,beras ir64 (kw medium),kg,9636.36363636364,beras
+1316,2022-09-01,beras ir64 (kw medium),kg,10113.6363636364,beras
+1317,2022-10-01,beras ir64 (kw medium),kg,10500.0,beras
+1318,2022-11-01,beras ir64 (kw medium),kg,10500.0,beras
+1319,2022-12-01,beras ir64 (kw medium),kg,10850.0,beras
+1320,2022-01-01,gula pasir kristal putih,kg,13571.4285714286,gula
+1321,2022-02-01,gula pasir kristal putih,kg,14000.0,gula
+1322,2022-03-01,gula pasir kristal putih,kg,13809.5238095238,gula
+1323,2022-04-01,gula pasir kristal putih,kg,14000.0,gula
+1324,2022-05-01,gula pasir kristal putih,kg,14000.0,gula
+1325,2022-06-01,gula pasir kristal putih,kg,14000.0,gula
+1326,2022-07-01,gula pasir kristal putih,kg,13690.4761904762,gula
+1327,2022-08-01,gula pasir kristal putih,kg,13500.0,gula
+1328,2022-09-01,gula pasir kristal putih,kg,13500.0,gula
+1329,2022-10-01,gula pasir kristal putih,kg,13500.0,gula
+1330,2022-11-01,gula pasir kristal putih,kg,13500.0,gula
+1331,2022-12-01,gula pasir kristal putih,kg,13500.0,gula
+1332,2022-01-01,"minyak goreng curah, tanpa merek",liter,16000.0,minyak goreng
+1333,2022-02-01,"minyak goreng curah, tanpa merek",liter,16611.1111111111,minyak goreng
+1334,2022-03-01,"minyak goreng curah, tanpa merek",liter,15976.9841269841,minyak goreng
+1335,2022-04-01,"minyak goreng curah, tanpa merek",liter,17100.0,minyak goreng
+1336,2022-05-01,"minyak goreng curah, tanpa merek",liter,15000.0,minyak goreng
+1337,2022-06-01,"minyak goreng curah, tanpa merek",liter,14115.7894736842,minyak goreng
+1338,2022-07-01,"minyak goreng curah, tanpa merek",liter,12338.0952380952,minyak goreng
+1339,2022-08-01,"minyak goreng curah, tanpa merek",liter,12184.8484848485,minyak goreng
+1340,2022-09-01,"minyak goreng curah, tanpa merek",liter,12086.3636363636,minyak goreng
+1341,2022-10-01,"minyak goreng curah, tanpa merek",liter,12614.2857142857,minyak goreng
+1342,2022-11-01,"minyak goreng curah, tanpa merek",liter,13919.0476190476,minyak goreng
+1343,2022-12-01,"minyak goreng curah, tanpa merek",liter,14400.0,minyak goreng
+1344,2022-01-01,"minyak goreng kemasan, plastik, bimoli kl",liter,20000.0,minyak goreng
+1345,2022-02-01,"minyak goreng kemasan, plastik, bimoli kl",liter,20000.0,minyak goreng
+1346,2022-03-01,"minyak goreng kemasan, plastik, bimoli kl",liter,16750.0,minyak goreng
+1347,2022-04-01,"minyak goreng kemasan, plastik, bimoli kl",liter,25000.0,minyak goreng
+1348,2022-05-01,"minyak goreng kemasan, plastik, bimoli kl",liter,25000.0,minyak goreng
+1349,2022-06-01,"minyak goreng kemasan, plastik, bimoli kl",liter,25000.0,minyak goreng
+1350,2022-07-01,"minyak goreng kemasan, plastik, bimoli kl",liter,24500.0,minyak goreng
+1351,2022-08-01,"minyak goreng kemasan, plastik, bimoli kl",liter,23500.0,minyak goreng
+1352,2022-09-01,"minyak goreng kemasan, plastik, bimoli kl",liter,21500.0,minyak goreng
+1353,2022-10-01,"minyak goreng kemasan, plastik, bimoli kl",liter,20250.0,minyak goreng
+1354,2022-11-01,"minyak goreng kemasan, plastik, bimoli kl",liter,20000.0,minyak goreng
+1355,2022-12-01,"minyak goreng kemasan, plastik, bimoli kl",liter,20000.0,minyak goreng
+1356,2022-01-01,minyak goreng kemasan sederhana (1 lt),liter,16000.0,minyak goreng
+1357,2022-02-01,minyak goreng kemasan sederhana (1 lt),liter,14000.0,minyak goreng
+1358,2022-03-01,minyak goreng kemasan sederhana (1 lt),liter,19238.0952380952,minyak goreng
+1359,2022-04-01,minyak goreng kemasan sederhana (1 lt),liter,24000.0,minyak goreng
+1360,2022-05-01,minyak goreng kemasan sederhana (1 lt),liter,23333.3333333333,minyak goreng
+1361,2022-06-01,minyak goreng kemasan sederhana (1 lt),liter,23000.0,minyak goreng
+1362,2022-07-01,minyak goreng kemasan sederhana (1 lt),liter,21761.9047619048,minyak goreng
+1363,2022-08-01,minyak goreng kemasan sederhana (1 lt),liter,21000.0,minyak goreng
+1364,2022-09-01,minyak goreng kemasan sederhana (1 lt),liter,21000.0,minyak goreng
+1365,2022-10-01,minyak goreng kemasan sederhana (1 lt),liter,21000.0,minyak goreng
+1366,2022-11-01,minyak goreng kemasan sederhana (1 lt),liter,21000.0,minyak goreng
+1367,2022-12-01,minyak goreng kemasan sederhana (1 lt),liter,21000.0,minyak goreng
+1368,2022-01-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+1369,2022-02-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+1370,2022-03-01,"daging sapi lokal, paha depan (chuck)",kg,123333.333333333,daging sapi
+1371,2022-04-01,"daging sapi lokal, paha depan (chuck)",kg,129333.333333333,daging sapi
+1372,2022-05-01,"daging sapi lokal, paha depan (chuck)",kg,141333.333333333,daging sapi
+1373,2022-06-01,"daging sapi lokal, paha depan (chuck)",kg,140000.0,daging sapi
+1374,2022-07-01,"daging sapi lokal, paha depan (chuck)",kg,140000.0,daging sapi
+1375,2022-08-01,"daging sapi lokal, paha depan (chuck)",kg,140000.0,daging sapi
+1376,2022-09-01,"daging sapi lokal, paha depan (chuck)",kg,140000.0,daging sapi
+1377,2022-10-01,"daging sapi lokal, paha depan (chuck)",kg,140317.46031746,daging sapi
+1378,2022-11-01,"daging sapi lokal, paha depan (chuck)",kg,143333.333333333,daging sapi
+1379,2022-12-01,"daging sapi lokal, paha depan (chuck)",kg,143333.333333333,daging sapi
+1380,2022-01-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+1381,2022-02-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+1382,2022-03-01,"daging sapi lokal, paha belakang",kg,123333.333333333,daging sapi
+1383,2022-04-01,"daging sapi lokal, paha belakang",kg,129333.333333333,daging sapi
+1384,2022-05-01,"daging sapi lokal, paha belakang",kg,141333.333333333,daging sapi
+1385,2022-06-01,"daging sapi lokal, paha belakang",kg,140000.0,daging sapi
+1386,2022-07-01,"daging sapi lokal, paha belakang",kg,140000.0,daging sapi
+1387,2022-08-01,"daging sapi lokal, paha belakang",kg,140000.0,daging sapi
+1388,2022-09-01,"daging sapi lokal, paha belakang",kg,140000.0,daging sapi
+1389,2022-10-01,"daging sapi lokal, paha belakang",kg,140317.46031746,daging sapi
+1390,2022-11-01,"daging sapi lokal, paha belakang",kg,143333.333333333,daging sapi
+1391,2022-12-01,"daging sapi lokal, paha belakang",kg,143333.333333333,daging sapi
+1392,2022-01-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+1393,2022-02-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+1394,2022-03-01,"daging sapi lokal, has luar (sirloin)",kg,123333.333333333,daging sapi
+1395,2022-04-01,"daging sapi lokal, has luar (sirloin)",kg,129333.333333333,daging sapi
+1396,2022-05-01,"daging sapi lokal, has luar (sirloin)",kg,141333.333333333,daging sapi
+1397,2022-06-01,"daging sapi lokal, has luar (sirloin)",kg,140000.0,daging sapi
+1398,2022-07-01,"daging sapi lokal, has luar (sirloin)",kg,140000.0,daging sapi
+1399,2022-08-01,"daging sapi lokal, has luar (sirloin)",kg,140000.0,daging sapi
+1400,2022-09-01,"daging sapi lokal, has luar (sirloin)",kg,140000.0,daging sapi
+1401,2022-10-01,"daging sapi lokal, has luar (sirloin)",kg,140317.46031746,daging sapi
+1402,2022-11-01,"daging sapi lokal, has luar (sirloin)",kg,143333.333333333,daging sapi
+1403,2022-12-01,"daging sapi lokal, has luar (sirloin)",kg,143333.333333333,daging sapi
+1404,2022-01-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+1405,2022-02-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+1406,2022-03-01,"daging sapi lokal, sandung lamur (brisket",kg,103333.333333333,daging sapi
+1407,2022-04-01,"daging sapi lokal, sandung lamur (brisket",kg,106333.333333333,daging sapi
+1408,2022-05-01,"daging sapi lokal, sandung lamur (brisket",kg,113333.333333333,daging sapi
+1409,2022-06-01,"daging sapi lokal, sandung lamur (brisket",kg,113333.333333333,daging sapi
+1410,2022-07-01,"daging sapi lokal, sandung lamur (brisket",kg,113333.333333333,daging sapi
+1411,2022-08-01,"daging sapi lokal, sandung lamur (brisket",kg,113333.333333333,daging sapi
+1412,2022-09-01,"daging sapi lokal, sandung lamur (brisket",kg,113333.333333333,daging sapi
+1413,2022-10-01,"daging sapi lokal, sandung lamur (brisket",kg,113650.793650794,daging sapi
+1414,2022-11-01,"daging sapi lokal, sandung lamur (brisket",kg,116666.666666667,daging sapi
+1415,2022-12-01,"daging sapi lokal, sandung lamur (brisket",kg,116666.666666667,daging sapi
+1416,2022-01-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+1417,2022-02-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+1418,2022-03-01,daging sapi lokal tetelan,kg,113333.333333333,daging sapi
+1419,2022-04-01,daging sapi lokal tetelan,kg,116333.333333333,daging sapi
+1420,2022-05-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1421,2022-06-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1422,2022-07-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1423,2022-08-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1424,2022-09-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1425,2022-10-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1426,2022-11-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1427,2022-12-01,daging sapi lokal tetelan,kg,123333.333333333,daging sapi
+1428,2022-01-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1429,2022-02-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1430,2022-03-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1431,2022-04-01,"daging sapi impor, beku",kg,100000.0,daging sapi
+1432,2022-05-01,"daging sapi impor, beku",kg,96666.6666666667,daging sapi
+1433,2022-06-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1434,2022-07-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1435,2022-08-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1436,2022-09-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1437,2022-10-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1438,2022-11-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1439,2022-12-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1440,2022-01-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1441,2022-02-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1442,2022-03-01,"daging sapi lokal, has dalam (tenderloin)",kg,123333.333333333,daging sapi
+1443,2022-04-01,"daging sapi lokal, has dalam (tenderloin)",kg,129333.333333333,daging sapi
+1444,2022-05-01,"daging sapi lokal, has dalam (tenderloin)",kg,141333.333333333,daging sapi
+1445,2022-06-01,"daging sapi lokal, has dalam (tenderloin)",kg,140000.0,daging sapi
+1446,2022-07-01,"daging sapi lokal, has dalam (tenderloin)",kg,140000.0,daging sapi
+1447,2022-08-01,"daging sapi lokal, has dalam (tenderloin)",kg,140000.0,daging sapi
+1448,2022-09-01,"daging sapi lokal, has dalam (tenderloin)",kg,140000.0,daging sapi
+1449,2022-10-01,"daging sapi lokal, has dalam (tenderloin)",kg,140317.46031746,daging sapi
+1450,2022-11-01,"daging sapi lokal, has dalam (tenderloin)",kg,143333.333333333,daging sapi
+1451,2022-12-01,"daging sapi lokal, has dalam (tenderloin)",kg,143333.333333333,daging sapi
+1452,2022-01-01,"daging ayam broiler/ras, utuh",kg,37079.3650793651,daging ayam
+1453,2022-02-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1454,2022-03-01,"daging ayam broiler/ras, utuh",kg,35047.619047619,daging ayam
+1455,2022-04-01,"daging ayam broiler/ras, utuh",kg,39100.0,daging ayam
+1456,2022-05-01,"daging ayam broiler/ras, utuh",kg,35022.2222222222,daging ayam
+1457,2022-06-01,"daging ayam broiler/ras, utuh",kg,36456.1403508772,daging ayam
+1458,2022-07-01,"daging ayam broiler/ras, utuh",kg,37111.1111111111,daging ayam
+1459,2022-08-01,"daging ayam broiler/ras, utuh",kg,36318.1818181818,daging ayam
+1460,2022-09-01,"daging ayam broiler/ras, utuh",kg,34606.0606060606,daging ayam
+1461,2022-10-01,"daging ayam broiler/ras, utuh",kg,32873.0158730159,daging ayam
+1462,2022-11-01,"daging ayam broiler/ras, utuh",kg,34000.0,daging ayam
+1463,2022-12-01,"daging ayam broiler/ras, utuh",kg,33391.6666666667,daging ayam
+1464,2022-01-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1465,2022-02-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1466,2022-03-01,daging ayam kampung,kg,66666.6666666667,daging ayam
+1467,2022-04-01,daging ayam kampung,kg,68166.6666666667,daging ayam
+1468,2022-05-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1469,2022-06-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1470,2022-07-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1471,2022-08-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1472,2022-09-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1473,2022-10-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1474,2022-11-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1475,2022-12-01,daging ayam kampung,kg,71666.6666666667,daging ayam
+1476,2022-01-01,telur ayam negeri,kg,22714.2857142857,telur
+1477,2022-02-01,telur ayam negeri,kg,21277.7777777778,telur
+1478,2022-03-01,telur ayam negeri,kg,24476.1904761905,telur
+1479,2022-04-01,telur ayam negeri,kg,25216.6666666667,telur
+1480,2022-05-01,telur ayam negeri,kg,27533.3333333333,telur
+1481,2022-06-01,telur ayam negeri,kg,28578.947368421,telur
+1482,2022-07-01,telur ayam negeri,kg,28365.0793650794,telur
+1483,2022-08-01,telur ayam negeri,kg,29621.2121212121,telur
+1484,2022-09-01,telur ayam negeri,kg,26954.5454545455,telur
+1485,2022-10-01,telur ayam negeri,kg,25952.380952381,telur
+1486,2022-11-01,telur ayam negeri,kg,28380.9523809524,telur
+1487,2022-12-01,telur ayam negeri,kg,29738.3333333333,telur
+1488,2022-01-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1489,2022-02-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1490,2022-03-01,telur ayam kampung (per 21 biji),kg,49700.0,telur
+1491,2022-04-01,telur ayam kampung (per 21 biji),kg,51760.0,telur
+1492,2022-05-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1493,2022-06-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1494,2022-07-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1495,2022-08-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1496,2022-09-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1497,2022-10-01,telur ayam kampung (per 21 biji),kg,60000.0,telur
+1498,2022-11-01,telur ayam kampung (per 21 biji),kg,54642.8571428571,telur
+1499,2022-12-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1500,2022-01-01,tepung terigu protein tinggi,kg,12380.9523809524,tepung terigu (bogasari)
+1501,2022-02-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1502,2022-03-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1503,2022-04-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1504,2022-05-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1505,2022-06-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1506,2022-07-01,tepung terigu protein tinggi,kg,12500.0,tepung terigu (bogasari)
+1507,2022-08-01,tepung terigu protein tinggi,kg,12863.6363636364,tepung terigu (bogasari)
+1508,2022-09-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1509,2022-10-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1510,2022-11-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1511,2022-12-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1512,2022-01-01,tepung terigu protein sedang,kg,11880.9523809524,tepung terigu (bogasari)
+1513,2022-02-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1514,2022-03-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1515,2022-04-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1516,2022-05-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1517,2022-06-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1518,2022-07-01,tepung terigu protein sedang,kg,12000.0,tepung terigu (bogasari)
+1519,2022-08-01,tepung terigu protein sedang,kg,12363.6363636364,tepung terigu (bogasari)
+1520,2022-09-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1521,2022-10-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1522,2022-11-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1523,2022-12-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1524,2022-01-01,tepung terigu protein rendah,kg,11380.9523809524,tepung terigu (bogasari)
+1525,2022-02-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1526,2022-03-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1527,2022-04-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1528,2022-05-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1529,2022-06-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1530,2022-07-01,tepung terigu protein rendah,kg,11500.0,tepung terigu (bogasari)
+1531,2022-08-01,tepung terigu protein rendah,kg,11863.6363636364,tepung terigu (bogasari)
+1532,2022-09-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1533,2022-10-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1534,2022-11-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1535,2022-12-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1536,2022-01-01,kedelai kuning lokal,kg,20000.0,kedelai
+1537,2022-02-01,kedelai kuning lokal,kg,20000.0,kedelai
+1538,2022-03-01,kedelai kuning lokal,kg,20000.0,kedelai
+1539,2022-04-01,kedelai kuning lokal,kg,20000.0,kedelai
+1540,2022-05-01,kedelai kuning lokal,kg,20000.0,kedelai
+1541,2022-06-01,kedelai kuning lokal,kg,20000.0,kedelai
+1542,2022-07-01,kedelai kuning lokal,kg,20000.0,kedelai
+1543,2022-08-01,kedelai kuning lokal,kg,17409.0909090909,kedelai
+1544,2022-09-01,kedelai kuning lokal,kg,17000.0,kedelai
+1545,2022-10-01,kedelai kuning lokal,kg,17000.0,kedelai
+1546,2022-11-01,kedelai kuning lokal,kg,17000.0,kedelai
+1547,2022-12-01,kedelai kuning lokal,kg,17000.0,kedelai
+1548,2022-01-01,kedelai ex. impor,kg,10000.0,kedelai
+1549,2022-02-01,kedelai ex. impor,kg,10500.0,kedelai
+1550,2022-03-01,kedelai ex. impor,kg,11000.0,kedelai
+1551,2022-04-01,kedelai ex. impor,kg,11800.0,kedelai
+1552,2022-05-01,kedelai ex. impor,kg,11800.0,kedelai
+1553,2022-06-01,kedelai ex. impor,kg,11800.0,kedelai
+1554,2022-07-01,kedelai ex. impor,kg,12276.1904761905,kedelai
+1555,2022-08-01,kedelai ex. impor,kg,12500.0,kedelai
+1556,2022-09-01,kedelai ex. impor,kg,12500.0,kedelai
+1557,2022-10-01,kedelai ex. impor,kg,12966.6666666667,kedelai
+1558,2022-11-01,kedelai ex. impor,kg,13923.8095238095,kedelai
+1559,2022-12-01,kedelai ex. impor,kg,14000.0,kedelai
+1560,2022-01-01,jagung,kg,7000.0,jagung
+1561,2022-02-01,jagung,kg,7000.0,jagung
+1562,2022-03-01,jagung,kg,7000.0,jagung
+1563,2022-04-01,jagung,kg,7125.0,jagung
+1564,2022-05-01,jagung,kg,7500.0,jagung
+1565,2022-06-01,jagung,kg,7500.0,jagung
+1566,2022-07-01,jagung,kg,7500.0,jagung
+1567,2022-08-01,jagung,kg,7500.0,jagung
+1568,2022-09-01,jagung,kg,7500.0,jagung
+1569,2022-10-01,jagung,kg,7500.0,jagung
+1570,2022-11-01,jagung,kg,7500.0,jagung
+1571,2022-12-01,jagung,kg,7500.0,jagung
+1572,2022-01-01,cabai merah besar,kg,23269.8412698413,cabai
+1573,2022-02-01,cabai merah besar,kg,33666.6666666667,cabai
+1574,2022-03-01,cabai merah besar,kg,42476.1904761905,cabai
+1575,2022-04-01,cabai merah besar,kg,31733.3333333333,cabai
+1576,2022-05-01,cabai merah besar,kg,38933.3333333333,cabai
+1577,2022-06-01,cabai merah besar,kg,71754.3859649123,cabai
+1578,2022-07-01,cabai merah besar,kg,81904.7619047619,cabai
+1579,2022-08-01,cabai merah besar,kg,60424.2424242424,cabai
+1580,2022-09-01,cabai merah besar,kg,55757.5757575758,cabai
+1581,2022-10-01,cabai merah besar,kg,37396.8253968254,cabai
+1582,2022-11-01,cabai merah besar,kg,28095.2380952381,cabai
+1583,2022-12-01,cabai merah besar,kg,31466.6666666667,cabai
+1584,2022-01-01,cabai merah keriting,kg,23269.8412698413,cabai
+1585,2022-02-01,cabai merah keriting,kg,33666.6666666667,cabai
+1586,2022-03-01,cabai merah keriting,kg,42476.1904761905,cabai
+1587,2022-04-01,cabai merah keriting,kg,31733.3333333333,cabai
+1588,2022-05-01,cabai merah keriting,kg,38933.3333333333,cabai
+1589,2022-06-01,cabai merah keriting,kg,71754.3859649123,cabai
+1590,2022-07-01,cabai merah keriting,kg,81904.7619047619,cabai
+1591,2022-08-01,cabai merah keriting,kg,60424.2424242424,cabai
+1592,2022-09-01,cabai merah keriting,kg,55757.5757575758,cabai
+1593,2022-10-01,cabai merah keriting,kg,37396.8253968254,cabai
+1594,2022-11-01,cabai merah keriting,kg,28095.2380952381,cabai
+1595,2022-12-01,cabai merah keriting,kg,31466.6666666667,cabai
+1596,2022-01-01,cabai rawit merah,kg,37333.3333333333,cabai
+1597,2022-02-01,cabai rawit merah,kg,38222.2222222222,cabai
+1598,2022-03-01,cabai rawit merah,kg,46857.1428571429,cabai
+1599,2022-04-01,cabai rawit merah,kg,27600.0,cabai
+1600,2022-05-01,cabai rawit merah,kg,43066.6666666667,cabai
+1601,2022-06-01,cabai rawit merah,kg,85122.8070175438,cabai
+1602,2022-07-01,cabai rawit merah,kg,68952.3809523809,cabai
+1603,2022-08-01,cabai rawit merah,kg,43969.696969697,cabai
+1604,2022-09-01,cabai rawit merah,kg,55303.0303030303,cabai
+1605,2022-10-01,cabai rawit merah,kg,42190.4761904762,cabai
+1606,2022-11-01,cabai rawit merah,kg,31619.0476190476,cabai
+1607,2022-12-01,cabai rawit merah,kg,40300.0,cabai
+1608,2022-01-01,cabai rawit hijau,kg,39269.8412698413,cabai
+1609,2022-02-01,cabai rawit hijau,kg,37333.3333333333,cabai
+1610,2022-03-01,cabai rawit hijau,kg,38476.1904761905,cabai
+1611,2022-04-01,cabai rawit hijau,kg,32633.3333333333,cabai
+1612,2022-05-01,cabai rawit hijau,kg,36000.0,cabai
+1613,2022-06-01,cabai rawit hijau,kg,63859.649122807,cabai
+1614,2022-07-01,cabai rawit hijau,kg,63809.5238095238,cabai
+1615,2022-08-01,cabai rawit hijau,kg,33696.9696969697,cabai
+1616,2022-09-01,cabai rawit hijau,kg,37939.3939393939,cabai
+1617,2022-10-01,cabai rawit hijau,kg,29904.7619047619,cabai
+1618,2022-11-01,cabai rawit hijau,kg,22095.2380952381,cabai
+1619,2022-12-01,cabai rawit hijau,kg,29966.6666666667,cabai
+1620,2022-01-01,bawang merah lokal,kg,28666.6666666667,bawang
+1621,2022-02-01,bawang merah lokal,kg,32629.6296296296,bawang
+1622,2022-03-01,bawang merah lokal,kg,34888.8888888889,bawang
+1623,2022-04-01,bawang merah lokal,kg,35400.0,bawang
+1624,2022-05-01,bawang merah lokal,kg,41600.0,bawang
+1625,2022-06-01,bawang merah lokal,kg,54000.0,bawang
+1626,2022-07-01,bawang merah lokal,kg,58380.9523809524,bawang
+1627,2022-08-01,bawang merah lokal,kg,35090.9090909091,bawang
+1628,2022-09-01,bawang merah lokal,kg,31545.4545454545,bawang
+1629,2022-10-01,bawang merah lokal,kg,31682.5396825397,bawang
+1630,2022-11-01,bawang merah lokal,kg,32222.2222222222,bawang
+1631,2022-12-01,bawang merah lokal,kg,33166.6666666667,bawang
+1632,2022-01-01,"bawang putih impor, honan",kg,22666.6666666667,bawang
+1633,2022-02-01,"bawang putih impor, honan",kg,22666.6666666667,bawang
+1634,2022-03-01,"bawang putih impor, honan",kg,24698.4126984127,bawang
+1635,2022-04-01,"bawang putih impor, honan",kg,28000.0,bawang
+1636,2022-05-01,"bawang putih impor, honan",kg,28000.0,bawang
+1637,2022-06-01,"bawang putih impor, honan",kg,26105.2631578947,bawang
+1638,2022-07-01,"bawang putih impor, honan",kg,22000.0,bawang
+1639,2022-08-01,"bawang putih impor, honan",kg,20545.4545454545,bawang
+1640,2022-09-01,"bawang putih impor, honan",kg,20000.0,bawang
+1641,2022-10-01,"bawang putih impor, honan",kg,20000.0,bawang
+1642,2022-11-01,"bawang putih impor, honan",kg,18920.6349206349,bawang
+1643,2022-12-01,"bawang putih impor, honan",kg,18666.6666666667,bawang
+1644,2022-01-01,"bawang putih impor, kating",kg,30000.0,bawang
+1645,2022-02-01,"bawang putih impor, kating",kg,30000.0,bawang
+1646,2022-03-01,"bawang putih impor, kating",kg,31809.5238095238,bawang
+1647,2022-04-01,"bawang putih impor, kating",kg,34800.0,bawang
+1648,2022-05-01,"bawang putih impor, kating",kg,33466.6666666667,bawang
+1649,2022-06-01,"bawang putih impor, kating",kg,31473.6842105263,bawang
+1650,2022-07-01,"bawang putih impor, kating",kg,28095.2380952381,bawang
+1651,2022-08-01,"bawang putih impor, kating",kg,27727.2727272727,bawang
+1652,2022-09-01,"bawang putih impor, kating",kg,27727.2727272727,bawang
+1653,2022-10-01,"bawang putih impor, kating",kg,28000.0,bawang
+1654,2022-11-01,"bawang putih impor, kating",kg,25714.2857142857,bawang
+1655,2022-12-01,"bawang putih impor, kating",kg,25966.6666666667,bawang
+1656,2022-01-01,ikan laut teri,kg,80000.0,ikan laut
+1657,2022-02-01,ikan laut teri,kg,80000.0,ikan laut
+1658,2022-03-01,ikan laut teri,kg,80000.0,ikan laut
+1659,2022-04-01,ikan laut teri,kg,80000.0,ikan laut
+1660,2022-05-01,ikan laut teri,kg,80000.0,ikan laut
+1661,2022-06-01,ikan laut teri,kg,80000.0,ikan laut
+1662,2022-07-01,ikan laut teri,kg,80000.0,ikan laut
+1663,2022-08-01,ikan laut teri,kg,80000.0,ikan laut
+1664,2022-09-01,ikan laut teri,kg,80000.0,ikan laut
+1665,2022-10-01,ikan laut teri,kg,76428.5714285714,ikan laut
+1666,2022-11-01,ikan laut teri,kg,75000.0,ikan laut
+1667,2022-12-01,ikan laut teri,kg,75000.0,ikan laut
+1668,2022-01-01,ikan laut kembung,kg,36000.0,ikan laut
+1669,2022-02-01,ikan laut kembung,kg,36000.0,ikan laut
+1670,2022-03-01,ikan laut kembung,kg,36000.0,ikan laut
+1671,2022-04-01,ikan laut kembung,kg,36000.0,ikan laut
+1672,2022-05-01,ikan laut kembung,kg,36000.0,ikan laut
+1673,2022-06-01,ikan laut kembung,kg,36000.0,ikan laut
+1674,2022-07-01,ikan laut kembung,kg,36000.0,ikan laut
+1675,2022-08-01,ikan laut kembung,kg,36000.0,ikan laut
+1676,2022-09-01,ikan laut kembung,kg,36000.0,ikan laut
+1677,2022-10-01,ikan laut kembung,kg,33333.3333333333,ikan laut
+1678,2022-11-01,ikan laut kembung,kg,28000.0,ikan laut
+1679,2022-12-01,ikan laut kembung,kg,28000.0,ikan laut
+1680,2022-01-01,garam beryodium halus,kg,8000.0,garam
+1681,2022-02-01,garam beryodium halus,kg,8000.0,garam
+1682,2022-03-01,garam beryodium halus,kg,8000.0,garam
+1683,2022-04-01,garam beryodium halus,kg,8000.0,garam
+1684,2022-05-01,garam beryodium halus,kg,8000.0,garam
+1685,2022-06-01,garam beryodium halus,kg,8000.0,garam
+1686,2022-07-01,garam beryodium halus,kg,8000.0,garam
+1687,2022-08-01,garam beryodium halus,kg,8000.0,garam
+1688,2022-09-01,garam beryodium halus,kg,8000.0,garam
+1689,2022-10-01,garam beryodium halus,kg,8285.71428571429,garam
+1690,2022-11-01,garam beryodium halus,kg,10000.0,garam
+1691,2022-12-01,garam beryodium halus,kg,10000.0,garam
+1692,2022-01-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1693,2022-02-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1694,2022-03-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1695,2022-04-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1696,2022-05-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1697,2022-06-01,indomie ayam bawang,bungkus,2333.33333333333,mie instant
+1698,2022-07-01,indomie ayam bawang,bungkus,2746.03174603175,mie instant
+1699,2022-08-01,indomie ayam bawang,bungkus,3000.0,mie instant
+1700,2022-09-01,indomie ayam bawang,bungkus,3000.0,mie instant
+1701,2022-10-01,indomie ayam bawang,bungkus,3000.0,mie instant
+1702,2022-11-01,indomie ayam bawang,bungkus,3000.0,mie instant
+1703,2022-12-01,indomie ayam bawang,bungkus,3000.0,mie instant
+1704,2022-01-01,susu dancow,kg,47000.0,susu dancow
+1705,2022-02-01,susu dancow,kg,47000.0,susu dancow
+1706,2022-03-01,susu dancow,kg,47000.0,susu dancow
+1707,2022-04-01,susu dancow,kg,47000.0,susu dancow
+1708,2022-05-01,susu dancow,kg,47000.0,susu dancow
+1709,2022-06-01,susu dancow,kg,47000.0,susu dancow
+1710,2022-07-01,susu dancow,kg,47000.0,susu dancow
+1711,2022-08-01,susu dancow,kg,47000.0,susu dancow
+1712,2022-09-01,susu dancow,kg,47000.0,susu dancow
+1713,2022-10-01,susu dancow,kg,47476.1904761905,susu dancow
+1714,2022-11-01,susu dancow,kg,52000.0,susu dancow
+1715,2022-12-01,susu dancow,kg,52000.0,susu dancow
+1716,2022-01-01,kacang tanah,kg,28000.0,kacang
+1717,2022-02-01,kacang tanah,kg,28000.0,kacang
+1718,2022-03-01,kacang tanah,kg,28000.0,kacang
+1719,2022-04-01,kacang tanah,kg,28000.0,kacang
+1720,2022-05-01,kacang tanah,kg,28000.0,kacang
+1721,2022-06-01,kacang tanah,kg,28000.0,kacang
+1722,2022-07-01,kacang tanah,kg,28000.0,kacang
+1723,2022-08-01,kacang tanah,kg,28000.0,kacang
+1724,2022-09-01,kacang tanah,kg,28000.0,kacang
+1725,2022-10-01,kacang tanah,kg,28000.0,kacang
+1726,2022-11-01,kacang tanah,kg,28000.0,kacang
+1727,2022-12-01,kacang tanah,kg,28000.0,kacang
+1728,2022-01-01,kacang hijau,kg,22000.0,kacang
+1729,2022-02-01,kacang hijau,kg,22000.0,kacang
+1730,2022-03-01,kacang hijau,kg,22000.0,kacang
+1731,2022-04-01,kacang hijau,kg,22000.0,kacang
+1732,2022-05-01,kacang hijau,kg,22000.0,kacang
+1733,2022-06-01,kacang hijau,kg,22000.0,kacang
+1734,2022-07-01,kacang hijau,kg,22000.0,kacang
+1735,2022-08-01,kacang hijau,kg,22000.0,kacang
+1736,2022-09-01,kacang hijau,kg,22000.0,kacang
+1737,2022-10-01,kacang hijau,kg,22000.0,kacang
+1738,2022-11-01,kacang hijau,kg,22000.0,kacang
+1739,2022-12-01,kacang hijau,kg,22000.0,kacang
+1740,2022-01-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1741,2022-02-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1742,2022-03-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1743,2022-04-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1744,2022-05-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1745,2022-06-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1746,2022-07-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1747,2022-08-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1748,2022-09-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1749,2022-10-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1750,2022-11-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1751,2022-12-01,ketela pohon,kg,3666.66666666667,ketela pohon
+1752,2022-01-01,gula kelapa,kg,17000.0,gula
+1753,2022-02-01,gula kelapa,kg,17000.0,gula
+1754,2022-03-01,gula kelapa,kg,17000.0,gula
+1755,2022-04-01,gula kelapa,kg,17000.0,gula
+1756,2022-05-01,gula kelapa,kg,17000.0,gula
+1757,2022-06-01,gula kelapa,kg,17000.0,gula
+1758,2022-07-01,gula kelapa,kg,17000.0,gula
+1759,2022-08-01,gula kelapa,kg,17000.0,gula
+1760,2022-09-01,gula kelapa,kg,17000.0,gula
+1761,2022-10-01,gula kelapa,kg,17000.0,gula
+1762,2022-11-01,gula kelapa,kg,17000.0,gula
+1763,2022-12-01,gula kelapa,kg,17000.0,gula
+1764,2023-01-01,beras ir64 (kw premium),kg,13365.2173913043,beras
+1765,2023-02-01,beras ir64 (kw premium),kg,11287.5,beras
+1766,2023-03-01,beras ir64 (kw premium),kg,10956.5476190476,beras
+1767,2023-04-01,beras ir64 (kw premium),kg,11109.375,beras
+1768,2023-05-01,beras ir64 (kw premium),kg,11272.7272727273,beras
+1769,2023-06-01,beras ir64 (kw premium),kg,11500.0,beras
+1770,2023-07-01,beras ir64 (kw premium),kg,11312.5,beras
+1771,2023-08-01,beras ir64 (kw premium),kg,11264.7058823529,beras
+1772,2023-09-01,beras ir64 (kw premium),kg,12350.0,beras
+1773,2023-10-01,beras ir64 (kw premium),kg,13261.3636363636,beras
+1774,2023-11-01,beras ir64 (kw premium),kg,13250.0,beras
+1775,2023-12-01,beras ir64 (kw premium),kg,13250.0,beras
+1776,2023-01-01,beras ir64 (kw medium),kg,11500.0,beras
+1777,2023-02-01,beras ir64 (kw medium),kg,12500.0,beras
+1778,2023-03-01,beras ir64 (kw medium),kg,11852.380952381,beras
+1779,2023-04-01,beras ir64 (kw medium),kg,12212.5,beras
+1780,2023-05-01,beras ir64 (kw medium),kg,12068.1818181818,beras
+1781,2023-06-01,beras ir64 (kw medium),kg,12000.0,beras
+1782,2023-07-01,beras ir64 (kw medium),kg,12000.0,beras
+1783,2023-08-01,beras ir64 (kw medium),kg,12000.0,beras
+1784,2023-09-01,beras ir64 (kw medium),kg,13550.0,beras
+1785,2023-10-01,beras ir64 (kw medium),kg,14000.0,beras
+1786,2023-11-01,beras ir64 (kw medium),kg,14000.0,beras
+1787,2023-12-01,beras ir64 (kw medium),kg,14000.0,beras
+1788,2023-01-01,gula pasir kristal putih,kg,13500.0,gula
+1789,2023-02-01,gula pasir kristal putih,kg,13500.0,gula
+1790,2023-03-01,gula pasir kristal putih,kg,13500.0,gula
+1791,2023-04-01,gula pasir kristal putih,kg,13500.0,gula
+1792,2023-05-01,gula pasir kristal putih,kg,13909.0909090909,gula
+1793,2023-06-01,gula pasir kristal putih,kg,14000.0,gula
+1794,2023-07-01,gula pasir kristal putih,kg,13812.5,gula
+1795,2023-08-01,gula pasir kristal putih,kg,13750.0,gula
+1796,2023-09-01,gula pasir kristal putih,kg,14025.0,gula
+1797,2023-10-01,gula pasir kristal putih,kg,15090.9090909091,gula
+1798,2023-11-01,gula pasir kristal putih,kg,16720.5882352941,gula
+1799,2023-12-01,gula pasir kristal putih,kg,16825.0,gula
+1800,2023-01-01,"minyak goreng curah, tanpa merek",liter,14400.0,minyak goreng
+1801,2023-02-01,"minyak goreng curah, tanpa merek",liter,14240.0,minyak goreng
+1802,2023-03-01,"minyak goreng curah, tanpa merek",liter,13404.7619047619,minyak goreng
+1803,2023-04-01,"minyak goreng curah, tanpa merek",liter,13471.875,minyak goreng
+1804,2023-05-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+1805,2023-06-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+1806,2023-07-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+1807,2023-08-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+1808,2023-09-01,"minyak goreng curah, tanpa merek",liter,14000.0,minyak goreng
+1809,2023-10-01,"minyak goreng curah, tanpa merek",liter,14250.0,minyak goreng
+1810,2023-11-01,"minyak goreng curah, tanpa merek",liter,14250.0,minyak goreng
+1811,2023-12-01,"minyak goreng curah, tanpa merek",liter,14250.0,minyak goreng
+1812,2023-01-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14466.6666666667,minyak goreng
+1813,2023-02-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14925.0,minyak goreng
+1814,2023-03-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+1815,2023-04-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+1816,2023-05-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+1817,2023-06-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14000.0,minyak goreng
+1818,2023-07-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14037.5,minyak goreng
+1819,2023-08-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14250.0,minyak goreng
+1820,2023-09-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14250.0,minyak goreng
+1821,2023-10-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14250.0,minyak goreng
+1822,2023-11-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14250.0,minyak goreng
+1823,2023-12-01,"minyak goreng kemasan, plastik, bimoli kl",liter,14250.0,minyak goreng
+1824,2023-01-01,minyak goreng kemasan sederhana (1 lt),liter,20173.9130434783,minyak goreng
+1825,2023-02-01,minyak goreng kemasan sederhana (1 lt),liter,20700.0,minyak goreng
+1826,2023-03-01,minyak goreng kemasan sederhana (1 lt),liter,19916.6666666667,minyak goreng
+1827,2023-04-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1828,2023-05-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1829,2023-06-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1830,2023-07-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1831,2023-08-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1832,2023-09-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1833,2023-10-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1834,2023-11-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1835,2023-12-01,minyak goreng kemasan sederhana (1 lt),liter,20000.0,minyak goreng
+1836,2023-01-01,"daging sapi lokal, paha depan (chuck)",kg,137173.913043478,daging sapi
+1837,2023-02-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1838,2023-03-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1839,2023-04-01,"daging sapi lokal, paha depan (chuck)",kg,146875.0,daging sapi
+1840,2023-05-01,"daging sapi lokal, paha depan (chuck)",kg,144261.363636364,daging sapi
+1841,2023-06-01,"daging sapi lokal, paha depan (chuck)",kg,143214.285714286,daging sapi
+1842,2023-07-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1843,2023-08-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1844,2023-09-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1845,2023-10-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1846,2023-11-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1847,2023-12-01,"daging sapi lokal, paha depan (chuck)",kg,142500.0,daging sapi
+1848,2023-01-01,"daging sapi lokal, paha belakang",kg,137173.913043478,daging sapi
+1849,2023-02-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1850,2023-03-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1851,2023-04-01,"daging sapi lokal, paha belakang",kg,146875.0,daging sapi
+1852,2023-05-01,"daging sapi lokal, paha belakang",kg,144261.363636364,daging sapi
+1853,2023-06-01,"daging sapi lokal, paha belakang",kg,143214.285714286,daging sapi
+1854,2023-07-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1855,2023-08-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1856,2023-09-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1857,2023-10-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1858,2023-11-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1859,2023-12-01,"daging sapi lokal, paha belakang",kg,142500.0,daging sapi
+1860,2023-01-01,"daging sapi lokal, has luar (sirloin)",kg,137173.913043478,daging sapi
+1861,2023-02-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1862,2023-03-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1863,2023-04-01,"daging sapi lokal, has luar (sirloin)",kg,146875.0,daging sapi
+1864,2023-05-01,"daging sapi lokal, has luar (sirloin)",kg,144261.363636364,daging sapi
+1865,2023-06-01,"daging sapi lokal, has luar (sirloin)",kg,143214.285714286,daging sapi
+1866,2023-07-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1867,2023-08-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1868,2023-09-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1869,2023-10-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1870,2023-11-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1871,2023-12-01,"daging sapi lokal, has luar (sirloin)",kg,142500.0,daging sapi
+1872,2023-01-01,"daging sapi lokal, sandung lamur (brisket",kg,110000.0,daging sapi
+1873,2023-02-01,"daging sapi lokal, sandung lamur (brisket",kg,120000.0,daging sapi
+1874,2023-03-01,"daging sapi lokal, sandung lamur (brisket",kg,120000.0,daging sapi
+1875,2023-04-01,"daging sapi lokal, sandung lamur (brisket",kg,123125.0,daging sapi
+1876,2023-05-01,"daging sapi lokal, sandung lamur (brisket",kg,119147.727272727,daging sapi
+1877,2023-06-01,"daging sapi lokal, sandung lamur (brisket",kg,117142.857142857,daging sapi
+1878,2023-07-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1879,2023-08-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1880,2023-09-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1881,2023-10-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1882,2023-11-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1883,2023-12-01,"daging sapi lokal, sandung lamur (brisket",kg,115000.0,daging sapi
+1884,2023-01-01,daging sapi lokal tetelan,kg,120000.0,daging sapi
+1885,2023-02-01,daging sapi lokal tetelan,kg,125000.0,daging sapi
+1886,2023-03-01,daging sapi lokal tetelan,kg,125000.0,daging sapi
+1887,2023-04-01,daging sapi lokal tetelan,kg,128125.0,daging sapi
+1888,2023-05-01,daging sapi lokal tetelan,kg,121761.363636364,daging sapi
+1889,2023-06-01,daging sapi lokal tetelan,kg,118571.428571429,daging sapi
+1890,2023-07-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1891,2023-08-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1892,2023-09-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1893,2023-10-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1894,2023-11-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1895,2023-12-01,daging sapi lokal tetelan,kg,115000.0,daging sapi
+1896,2023-01-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1897,2023-02-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1898,2023-03-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1899,2023-04-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1900,2023-05-01,"daging sapi impor, beku",kg,95000.0,daging sapi
+1901,2023-06-01,"daging sapi impor, beku",kg,92857.1428571429,daging sapi
+1902,2023-07-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1903,2023-08-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1904,2023-09-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1905,2023-10-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1906,2023-11-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1907,2023-12-01,"daging sapi impor, beku",kg,90000.0,daging sapi
+1908,2023-01-01,"daging sapi lokal, has dalam (tenderloin)",kg,137173.913043478,daging sapi
+1909,2023-02-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1910,2023-03-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1911,2023-04-01,"daging sapi lokal, has dalam (tenderloin)",kg,146875.0,daging sapi
+1912,2023-05-01,"daging sapi lokal, has dalam (tenderloin)",kg,144261.363636364,daging sapi
+1913,2023-06-01,"daging sapi lokal, has dalam (tenderloin)",kg,143214.285714286,daging sapi
+1914,2023-07-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1915,2023-08-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1916,2023-09-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1917,2023-10-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1918,2023-11-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1919,2023-12-01,"daging sapi lokal, has dalam (tenderloin)",kg,142500.0,daging sapi
+1920,2023-01-01,"daging ayam broiler/ras, utuh",kg,32608.6956521739,daging ayam
+1921,2023-02-01,"daging ayam broiler/ras, utuh",kg,33725.0,daging ayam
+1922,2023-03-01,"daging ayam broiler/ras, utuh",kg,33500.0,daging ayam
+1923,2023-04-01,"daging ayam broiler/ras, utuh",kg,35468.75,daging ayam
+1924,2023-05-01,"daging ayam broiler/ras, utuh",kg,35863.6363636364,daging ayam
+1925,2023-06-01,"daging ayam broiler/ras, utuh",kg,37666.6666666667,daging ayam
+1926,2023-07-01,"daging ayam broiler/ras, utuh",kg,39700.0,daging ayam
+1927,2023-08-01,"daging ayam broiler/ras, utuh",kg,37852.9411764706,daging ayam
+1928,2023-09-01,"daging ayam broiler/ras, utuh",kg,36850.0,daging ayam
+1929,2023-10-01,"daging ayam broiler/ras, utuh",kg,36659.0909090909,daging ayam
+1930,2023-11-01,"daging ayam broiler/ras, utuh",kg,35617.6470588235,daging ayam
+1931,2023-12-01,"daging ayam broiler/ras, utuh",kg,34500.0,daging ayam
+1932,2023-01-01,daging ayam kampung,kg,70000.0,daging ayam
+1933,2023-02-01,daging ayam kampung,kg,72500.0,daging ayam
+1934,2023-03-01,daging ayam kampung,kg,72500.0,daging ayam
+1935,2023-04-01,daging ayam kampung,kg,72500.0,daging ayam
+1936,2023-05-01,daging ayam kampung,kg,72500.0,daging ayam
+1937,2023-06-01,daging ayam kampung,kg,72500.0,daging ayam
+1938,2023-07-01,daging ayam kampung,kg,72500.0,daging ayam
+1939,2023-08-01,daging ayam kampung,kg,72500.0,daging ayam
+1940,2023-09-01,daging ayam kampung,kg,72500.0,daging ayam
+1941,2023-10-01,daging ayam kampung,kg,72500.0,daging ayam
+1942,2023-11-01,daging ayam kampung,kg,72500.0,daging ayam
+1943,2023-12-01,daging ayam kampung,kg,72500.0,daging ayam
+1944,2023-01-01,telur ayam negeri,kg,27217.3913043478,telur
+1945,2023-02-01,telur ayam negeri,kg,26825.0,telur
+1946,2023-03-01,telur ayam negeri,kg,28428.5714285714,telur
+1947,2023-04-01,telur ayam negeri,kg,27281.25,telur
+1948,2023-05-01,telur ayam negeri,kg,30068.1818181818,telur
+1949,2023-06-01,telur ayam negeri,kg,30452.380952381,telur
+1950,2023-07-01,telur ayam negeri,kg,30900.0,telur
+1951,2023-08-01,telur ayam negeri,kg,30500.0,telur
+1952,2023-09-01,telur ayam negeri,kg,26750.0,telur
+1953,2023-10-01,telur ayam negeri,kg,24977.2727272727,telur
+1954,2023-11-01,telur ayam negeri,kg,27661.7647058824,telur
+1955,2023-12-01,telur ayam negeri,kg,27600.0,telur
+1956,2023-01-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1957,2023-02-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1958,2023-03-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1959,2023-04-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1960,2023-05-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1961,2023-06-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1962,2023-07-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1963,2023-08-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1964,2023-09-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1965,2023-10-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1966,2023-11-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1967,2023-12-01,telur ayam kampung (per 21 biji),kg,52500.0,telur
+1968,2023-01-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1969,2023-02-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1970,2023-03-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1971,2023-04-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1972,2023-05-01,tepung terigu protein tinggi,kg,13000.0,tepung terigu (bogasari)
+1973,2023-06-01,tepung terigu protein tinggi,kg,13071.4285714286,tepung terigu (bogasari)
+1974,2023-07-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1975,2023-08-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1976,2023-09-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1977,2023-10-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1978,2023-11-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1979,2023-12-01,tepung terigu protein tinggi,kg,13250.0,tepung terigu (bogasari)
+1980,2023-01-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1981,2023-02-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1982,2023-03-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1983,2023-04-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1984,2023-05-01,tepung terigu protein sedang,kg,12500.0,tepung terigu (bogasari)
+1985,2023-06-01,tepung terigu protein sedang,kg,12571.4285714286,tepung terigu (bogasari)
+1986,2023-07-01,tepung terigu protein sedang,kg,12750.0,tepung terigu (bogasari)
+1987,2023-08-01,tepung terigu protein sedang,kg,12750.0,tepung terigu (bogasari)
+1988,2023-09-01,tepung terigu protein sedang,kg,12275.0,tepung terigu (bogasari)
+1989,2023-10-01,tepung terigu protein sedang,kg,12250.0,tepung terigu (bogasari)
+1990,2023-11-01,tepung terigu protein sedang,kg,12250.0,tepung terigu (bogasari)
+1991,2023-12-01,tepung terigu protein sedang,kg,12250.0,tepung terigu (bogasari)
+1992,2023-01-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1993,2023-02-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1994,2023-03-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1995,2023-04-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1996,2023-05-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1997,2023-06-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1998,2023-07-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+1999,2023-08-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+2000,2023-09-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+2001,2023-10-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+2002,2023-11-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+2003,2023-12-01,tepung terigu protein rendah,kg,12000.0,tepung terigu (bogasari)
+2004,2023-01-01,kedelai kuning lokal,kg,17000.0,kedelai
+2005,2023-02-01,kedelai kuning lokal,kg,17000.0,kedelai
+2006,2023-03-01,kedelai kuning lokal,kg,17000.0,kedelai
+2007,2023-04-01,kedelai kuning lokal,kg,17000.0,kedelai
+2008,2023-05-01,kedelai kuning lokal,kg,17000.0,kedelai
+2009,2023-06-01,kedelai kuning lokal,kg,17000.0,kedelai
+2010,2023-07-01,kedelai kuning lokal,kg,17000.0,kedelai
+2011,2023-08-01,kedelai kuning lokal,kg,17000.0,kedelai
+2012,2023-09-01,kedelai kuning lokal,kg,18800.0,kedelai
+2013,2023-10-01,kedelai kuning lokal,kg,20000.0,kedelai
+2014,2023-11-01,kedelai kuning lokal,kg,20000.0,kedelai
+2015,2023-12-01,kedelai kuning lokal,kg,20000.0,kedelai
+2016,2023-01-01,kedelai ex. impor,kg,14000.0,kedelai
+2017,2023-02-01,kedelai ex. impor,kg,13450.0,kedelai
+2018,2023-03-01,kedelai ex. impor,kg,12047.619047619,kedelai
+2019,2023-04-01,kedelai ex. impor,kg,12000.0,kedelai
+2020,2023-05-01,kedelai ex. impor,kg,12000.0,kedelai
+2021,2023-06-01,kedelai ex. impor,kg,12000.0,kedelai
+2022,2023-07-01,kedelai ex. impor,kg,12000.0,kedelai
+2023,2023-08-01,kedelai ex. impor,kg,12000.0,kedelai
+2024,2023-09-01,kedelai ex. impor,kg,11700.0,kedelai
+2025,2023-10-01,kedelai ex. impor,kg,11295.4545454545,kedelai
+2026,2023-11-01,kedelai ex. impor,kg,12845.5882352941,kedelai
+2027,2023-12-01,kedelai ex. impor,kg,13000.0,kedelai
+2028,2023-01-01,jagung,kg,7500.0,jagung
+2029,2023-02-01,jagung,kg,7500.0,jagung
+2030,2023-03-01,jagung,kg,7500.0,jagung
+2031,2023-04-01,jagung,kg,7500.0,jagung
+2032,2023-05-01,jagung,kg,7500.0,jagung
+2033,2023-06-01,jagung,kg,7500.0,jagung
+2034,2023-07-01,jagung,kg,7500.0,jagung
+2035,2023-08-01,jagung,kg,7500.0,jagung
+2036,2023-09-01,jagung,kg,7500.0,jagung
+2037,2023-10-01,jagung,kg,7500.0,jagung
+2038,2023-11-01,jagung,kg,9779.41176470588,jagung
+2039,2023-12-01,jagung,kg,10000.0,jagung
+2040,2023-01-01,cabai merah besar,kg,33304.347826087,cabai
+2041,2023-02-01,cabai merah besar,kg,39800.0,cabai
+2042,2023-03-01,cabai merah besar,kg,29190.4761904762,cabai
+2043,2023-04-01,cabai merah besar,kg,26218.75,cabai
+2044,2023-05-01,cabai merah besar,kg,31090.9090909091,cabai
+2045,2023-06-01,cabai merah besar,kg,34095.2380952381,cabai
+2046,2023-07-01,cabai merah besar,kg,36175.0,cabai
+2047,2023-08-01,cabai merah besar,kg,29029.4117647059,cabai
+2048,2023-09-01,cabai merah besar,kg,32525.0,cabai
+2049,2023-10-01,cabai merah besar,kg,37954.5454545455,cabai
+2050,2023-11-01,cabai merah besar,kg,55985.2941176471,cabai
+2051,2023-12-01,cabai merah besar,kg,57000.0,cabai
+2052,2023-01-01,cabai merah keriting,kg,35391.3043478261,cabai
+2053,2023-02-01,cabai merah keriting,kg,42600.0,cabai
+2054,2023-03-01,cabai merah keriting,kg,32916.6666666667,cabai
+2055,2023-04-01,cabai merah keriting,kg,25890.625,cabai
+2056,2023-05-01,cabai merah keriting,kg,21363.6363636364,cabai
+2057,2023-06-01,cabai merah keriting,kg,23309.5238095238,cabai
+2058,2023-07-01,cabai merah keriting,kg,25550.0,cabai
+2059,2023-08-01,cabai merah keriting,kg,26794.1176470588,cabai
+2060,2023-09-01,cabai merah keriting,kg,26875.0,cabai
+2061,2023-10-01,cabai merah keriting,kg,37022.7272727273,cabai
+2062,2023-11-01,cabai merah keriting,kg,64514.7058823529,cabai
+2063,2023-12-01,cabai merah keriting,kg,63600.0,cabai
+2064,2023-01-01,cabai rawit merah,kg,53086.9565217391,cabai
+2065,2023-02-01,cabai rawit merah,kg,57925.0,cabai
+2066,2023-03-01,cabai rawit merah,kg,59132.1428571429,cabai
+2067,2023-04-01,cabai rawit merah,kg,27703.125,cabai
+2068,2023-05-01,cabai rawit merah,kg,29500.0,cabai
+2069,2023-06-01,cabai rawit merah,kg,31619.0476190476,cabai
+2070,2023-07-01,cabai rawit merah,kg,25225.0,cabai
+2071,2023-08-01,cabai rawit merah,kg,32882.3529411765,cabai
+2072,2023-09-01,cabai rawit merah,kg,27025.0,cabai
+2073,2023-10-01,cabai rawit merah,kg,50818.1818181818,cabai
+2074,2023-11-01,cabai rawit merah,kg,81058.8235294118,cabai
+2075,2023-12-01,cabai rawit merah,kg,80225.0,cabai
+2076,2023-01-01,cabai rawit hijau,kg,42086.9565217391,cabai
+2077,2023-02-01,cabai rawit hijau,kg,36425.0,cabai
+2078,2023-03-01,cabai rawit hijau,kg,37809.5238095238,cabai
+2079,2023-04-01,cabai rawit hijau,kg,24375.0,cabai
+2080,2023-05-01,cabai rawit hijau,kg,22159.0909090909,cabai
+2081,2023-06-01,cabai rawit hijau,kg,21714.2857142857,cabai
+2082,2023-07-01,cabai rawit hijau,kg,26725.0,cabai
+2083,2023-08-01,cabai rawit hijau,kg,25617.6470588235,cabai
+2084,2023-09-01,cabai rawit hijau,kg,21750.0,cabai
+2085,2023-10-01,cabai rawit hijau,kg,32568.1818181818,cabai
+2086,2023-11-01,cabai rawit hijau,kg,46602.9411764706,cabai
+2087,2023-12-01,cabai rawit hijau,kg,39750.0,cabai
+2088,2023-01-01,bawang merah lokal,kg,40000.0,bawang
+2089,2023-02-01,bawang merah lokal,kg,40387.5,bawang
+2090,2023-03-01,bawang merah lokal,kg,32869.0476190476,bawang
+2091,2023-04-01,bawang merah lokal,kg,32859.375,bawang
+2092,2023-05-01,bawang merah lokal,kg,38768.1818181818,bawang
+2093,2023-06-01,bawang merah lokal,kg,39500.0,bawang
+2094,2023-07-01,bawang merah lokal,kg,33075.0,bawang
+2095,2023-08-01,bawang merah lokal,kg,25852.9411764706,bawang
+2096,2023-09-01,bawang merah lokal,kg,24775.0,bawang
+2097,2023-10-01,bawang merah lokal,kg,24181.8181818182,bawang
+2098,2023-11-01,bawang merah lokal,kg,29191.1764705882,bawang
+2099,2023-12-01,bawang merah lokal,kg,32400.0,bawang
+2100,2023-01-01,"bawang putih impor, honan",kg,22000.0,bawang
+2101,2023-02-01,"bawang putih impor, honan",kg,23300.0,bawang
+2102,2023-03-01,"bawang putih impor, honan",kg,26523.8095238095,bawang
+2103,2023-04-01,"bawang putih impor, honan",kg,26000.0,bawang
+2104,2023-05-01,"bawang putih impor, honan",kg,27727.2727272727,bawang
+2105,2023-06-01,"bawang putih impor, honan",kg,29714.2857142857,bawang
+2106,2023-07-01,"bawang putih impor, honan",kg,33175.0,bawang
+2107,2023-08-01,"bawang putih impor, honan",kg,33852.9411764706,bawang
+2108,2023-09-01,"bawang putih impor, honan",kg,31100.0,bawang
+2109,2023-10-01,"bawang putih impor, honan",kg,31045.4545454545,bawang
+2110,2023-11-01,"bawang putih impor, honan",kg,32000.0,bawang
+2111,2023-12-01,"bawang putih impor, honan",kg,32750.0,bawang
+2112,2023-01-01,"bawang putih impor, kating",kg,27043.4782608696,bawang
+2113,2023-02-01,"bawang putih impor, kating",kg,29350.0,bawang
+2114,2023-03-01,"bawang putih impor, kating",kg,32604.7619047619,bawang
+2115,2023-04-01,"bawang putih impor, kating",kg,32250.0,bawang
+2116,2023-05-01,"bawang putih impor, kating",kg,35500.0,bawang
+2117,2023-06-01,"bawang putih impor, kating",kg,35285.7142857143,bawang
+2118,2023-07-01,"bawang putih impor, kating",kg,38075.0,bawang
+2119,2023-08-01,"bawang putih impor, kating",kg,35764.7058823529,bawang
+2120,2023-09-01,"bawang putih impor, kating",kg,35350.0,bawang
+2121,2023-10-01,"bawang putih impor, kating",kg,35659.0909090909,bawang
+2122,2023-11-01,"bawang putih impor, kating",kg,34985.2941176471,bawang
+2123,2023-12-01,"bawang putih impor, kating",kg,36225.0,bawang
+2124,2023-01-01,ikan laut teri,kg,75000.0,ikan laut
+2125,2023-02-01,ikan laut teri,kg,75000.0,ikan laut
+2126,2023-03-01,ikan laut teri,kg,75000.0,ikan laut
+2127,2023-04-01,ikan laut teri,kg,75000.0,ikan laut
+2128,2023-05-01,ikan laut teri,kg,75000.0,ikan laut
+2129,2023-06-01,ikan laut teri,kg,75000.0,ikan laut
+2130,2023-07-01,ikan laut teri,kg,75000.0,ikan laut
+2131,2023-08-01,ikan laut teri,kg,75000.0,ikan laut
+2132,2023-09-01,ikan laut teri,kg,75000.0,ikan laut
+2133,2023-10-01,ikan laut teri,kg,75000.0,ikan laut
+2134,2023-11-01,ikan laut teri,kg,75000.0,ikan laut
+2135,2023-12-01,ikan laut teri,kg,75000.0,ikan laut
+2136,2023-01-01,ikan laut kembung,kg,26666.6666666667,ikan laut
+2137,2023-02-01,ikan laut kembung,kg,27000.0,ikan laut
+2138,2023-03-01,ikan laut kembung,kg,27000.0,ikan laut
+2139,2023-04-01,ikan laut kembung,kg,27000.0,ikan laut
+2140,2023-05-01,ikan laut kembung,kg,27000.0,ikan laut
+2141,2023-06-01,ikan laut kembung,kg,27000.0,ikan laut
+2142,2023-07-01,ikan laut kembung,kg,27000.0,ikan laut
+2143,2023-08-01,ikan laut kembung,kg,27000.0,ikan laut
+2144,2023-09-01,ikan laut kembung,kg,27000.0,ikan laut
+2145,2023-10-01,ikan laut kembung,kg,27000.0,ikan laut
+2146,2023-11-01,ikan laut kembung,kg,27000.0,ikan laut
+2147,2023-12-01,ikan laut kembung,kg,27000.0,ikan laut
+2148,2023-01-01,garam beryodium halus,kg,10000.0,garam
+2149,2023-02-01,garam beryodium halus,kg,10000.0,garam
+2150,2023-03-01,garam beryodium halus,kg,10000.0,garam
+2151,2023-04-01,garam beryodium halus,kg,10000.0,garam
+2152,2023-05-01,garam beryodium halus,kg,10000.0,garam
+2153,2023-06-01,garam beryodium halus,kg,10000.0,garam
+2154,2023-07-01,garam beryodium halus,kg,10000.0,garam
+2155,2023-08-01,garam beryodium halus,kg,10000.0,garam
+2156,2023-09-01,garam beryodium halus,kg,10000.0,garam
+2157,2023-10-01,garam beryodium halus,kg,10000.0,garam
+2158,2023-11-01,garam beryodium halus,kg,10000.0,garam
+2159,2023-12-01,garam beryodium halus,kg,10000.0,garam
+2160,2023-01-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2161,2023-02-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2162,2023-03-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2163,2023-04-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2164,2023-05-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2165,2023-06-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2166,2023-07-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2167,2023-08-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2168,2023-09-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2169,2023-10-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2170,2023-11-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2171,2023-12-01,indomie ayam bawang,bungkus,3000.0,mie instant
+2172,2023-01-01,susu dancow,kg,52000.0,susu dancow
+2173,2023-02-01,susu dancow,kg,52000.0,susu dancow
+2174,2023-03-01,susu dancow,kg,52000.0,susu dancow
+2175,2023-04-01,susu dancow,kg,52000.0,susu dancow
+2176,2023-05-01,susu dancow,kg,52000.0,susu dancow
+2177,2023-06-01,susu dancow,kg,52000.0,susu dancow
+2178,2023-07-01,susu dancow,kg,52000.0,susu dancow
+2179,2023-08-01,susu dancow,kg,52000.0,susu dancow
+2180,2023-09-01,susu dancow,kg,52000.0,susu dancow
+2181,2023-10-01,susu dancow,kg,52000.0,susu dancow
+2182,2023-11-01,susu dancow,kg,52000.0,susu dancow
+2183,2023-12-01,susu dancow,kg,52000.0,susu dancow
+2184,2023-01-01,kacang tanah,kg,28000.0,kacang
+2185,2023-02-01,kacang tanah,kg,28000.0,kacang
+2186,2023-03-01,kacang tanah,kg,28000.0,kacang
+2187,2023-04-01,kacang tanah,kg,28000.0,kacang
+2188,2023-05-01,kacang tanah,kg,28000.0,kacang
+2189,2023-06-01,kacang tanah,kg,28000.0,kacang
+2190,2023-07-01,kacang tanah,kg,28000.0,kacang
+2191,2023-08-01,kacang tanah,kg,28000.0,kacang
+2192,2023-09-01,kacang tanah,kg,28000.0,kacang
+2193,2023-10-01,kacang tanah,kg,28000.0,kacang
+2194,2023-11-01,kacang tanah,kg,28000.0,kacang
+2195,2023-12-01,kacang tanah,kg,28000.0,kacang
+2196,2023-01-01,kacang hijau,kg,22000.0,kacang
+2197,2023-02-01,kacang hijau,kg,22000.0,kacang
+2198,2023-03-01,kacang hijau,kg,22000.0,kacang
+2199,2023-04-01,kacang hijau,kg,22375.0,kacang
+2200,2023-05-01,kacang hijau,kg,24000.0,kacang
+2201,2023-06-01,kacang hijau,kg,24000.0,kacang
+2202,2023-07-01,kacang hijau,kg,24000.0,kacang
+2203,2023-08-01,kacang hijau,kg,24000.0,kacang
+2204,2023-09-01,kacang hijau,kg,24000.0,kacang
+2205,2023-10-01,kacang hijau,kg,24000.0,kacang
+2206,2023-11-01,kacang hijau,kg,24000.0,kacang
+2207,2023-12-01,kacang hijau,kg,24000.0,kacang
+2208,2023-01-01,ketela pohon,kg,3666.66666666667,ketela pohon
+2209,2023-02-01,ketela pohon,kg,3750.0,ketela pohon
+2210,2023-03-01,ketela pohon,kg,3750.0,ketela pohon
+2211,2023-04-01,ketela pohon,kg,3750.0,ketela pohon
+2212,2023-05-01,ketela pohon,kg,3750.0,ketela pohon
+2213,2023-06-01,ketela pohon,kg,3750.0,ketela pohon
+2214,2023-07-01,ketela pohon,kg,3750.0,ketela pohon
+2215,2023-08-01,ketela pohon,kg,3750.0,ketela pohon
+2216,2023-09-01,ketela pohon,kg,3750.0,ketela pohon
+2217,2023-10-01,ketela pohon,kg,3750.0,ketela pohon
+2218,2023-11-01,ketela pohon,kg,3750.0,ketela pohon
+2219,2023-12-01,ketela pohon,kg,3750.0,ketela pohon
+2220,2023-01-01,gula kelapa,kg,17000.0,gula
+2221,2023-02-01,gula kelapa,kg,17000.0,gula
+2222,2023-03-01,gula kelapa,kg,17000.0,gula
+2223,2023-04-01,gula kelapa,kg,17000.0,gula
+2224,2023-05-01,gula kelapa,kg,17000.0,gula
+2225,2023-06-01,gula kelapa,kg,17000.0,gula
+2226,2023-07-01,gula kelapa,kg,17000.0,gula
+2227,2023-08-01,gula kelapa,kg,17000.0,gula
+2228,2023-09-01,gula kelapa,kg,17000.0,gula
+2229,2023-10-01,gula kelapa,kg,17000.0,gula
+2230,2023-11-01,gula kelapa,kg,17000.0,gula
+2231,2023-12-01,gula kelapa,kg,17000.0,gula
