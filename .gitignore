@@ -1,0 +1,5 @@
+*
+!.gitignore
+!data/dataframe_data.csv
+!bahan_pokok_bulanan.ipynb
+
