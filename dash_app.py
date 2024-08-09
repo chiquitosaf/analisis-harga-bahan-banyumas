@@ -12,6 +12,11 @@ df.drop(columns=["Unnamed: 0"], inplace=True)
 tabdata_content = html.Div(children=[
         html.H3(children="Data Harga"),
         html.P(children="Data bersumber dari Dinas Perindustrian dan Perdagangan Kabupaten Banyumas langsung dengan tambahan data dari https://sigaokmas.banyumaskab.go.id dan https://www.bi.go.id/hargapangan"),
+        html.H4(children="Nama-nama komoditas"),
+        html.Ol(children=[html.Li(children=i) for i in df["nama"].unique()],
+                style={"display" : "grid",
+                       "grid-template-rows" : "repeat(13, 1fr)",
+                       "grid-auto-flow" : "column"}),
         dash_table.DataTable(df.to_dict('records'), [{"name": i, "id": i} for i in df.columns],
                              page_size=10, style_table={"overflowX" : "auto"},
                              filter_action="native", sort_action="native")
