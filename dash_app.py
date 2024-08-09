@@ -1,10 +1,21 @@
-from dash import Dash, html
+from dash import Dash, html, dash_table
 import dash_bootstrap_components as dbc
+import pandas as pd
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
 )
 
+#content for tab data
+df =  pd.read_csv("data/dataframe_data.csv")
+df.drop(columns=["Unnamed: 0"], inplace=True)
+tabdata_content = html.Div(children=[
+        html.H3(children="Data Harga"),
+        html.P(children="Data bersumber dari Dinas Perindustrian dan Perdagangan Kabupaten Banyumas langsung dengan tambahan data dari https://sigaokmas.banyumaskab.go.id dan https://www.bi.go.id/hargapangan"),
+        dash_table.DataTable(df.to_dict('records'), [{"name": i, "id": i} for i in df.columns],
+                             page_size=10, style_table={"overflowX" : "auto"},
+                             filter_action="native", sort_action="native")
+    ], style={"margin-top" : "20px"})
 
 app.layout = html.Div(children=[
     #header - title
@@ -28,7 +39,19 @@ app.layout = html.Div(children=[
             html.Li(children="Bagaimana perubahan harga dari komoditas?"),
             html.Li(children="Pada bulan apa saja komoditas mengalami kenaikan harga tertinggi?")
         ], type="1")
+    ]),
+
+    #tabs
+    html.Div(children=[
+        dbc.Tabs([
+            dbc.Tab(tabdata_content,label="Data", tab_id="data"),
+            dbc.Tab(label="Visualisasi", tab_id="visualisasi"),
+            dbc.Tab(label="Analisis", tab_id="analisis")
+        ], id="main-tabs", active_tab="data"),
+        html.Div(id="tabs-content")
     ])
+
+    
 
 ], id="main-container", style={"margin" : "50px"})
 
