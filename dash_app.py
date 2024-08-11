@@ -1,7 +1,8 @@
-from dash import Dash, html, dash_table, dcc
+from dash import Dash, html, dash_table, dcc, Input, Output
 import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
@@ -43,8 +44,82 @@ fig_min_prices = px.bar(min_prices, x='nama', y='harga',
              labels={'nama': 'Bahan Pokok', 'harga': 'Harga Tertinggi'},
              template='plotly')
 
+# data 5 komoditas dengan standar deviasi tertinggi
+std_prices = df.groupby('nama')['harga'].std().reset_index()
+std_prices.columns = ['nama', 'std_dev']
+std_prices_high = std_prices.sort_values(by = 'std_dev',ascending=False,  ignore_index=True)[:5]
+fig_std_prices_high = px.bar(std_prices_high, x='nama', y='std_dev', 
+             title='Standar Deviasi Tertinggi untuk Bahan Pokok',
+             labels={'nama': 'Bahan Pokok', 'std_dev': 'Standar Deviasi'},
+             template='plotly')
+
+# data 5 komoditas dengan standar deviasi terendah
+std_prices_low = std_prices.sort_values(by = 'std_dev',ascending=True,  ignore_index=True)[:5]
+fig_std_prices_low = px.bar(std_prices_low, x='nama', y='std_dev', 
+             title='Standar Deviasi Terendah untuk Bahan Pokok',
+             labels={'nama': 'Bahan Pokok', 'std_dev': 'Standar Deviasi'},
+             template='plotly')
+
+# data rata-rata harga per kategori
+avg_price_per_category = df.groupby('kategori')['harga'].mean().reset_index()
+avg_price_per_category = avg_price_per_category.sort_values('harga', ascending=False, ignore_index=True)
+fig_price_per_categori = px.bar(avg_price_per_category, x='kategori', y='harga', 
+             title='Rata-rata Harga per Kategori',
+             labels={'kategori': 'Kategori', 'harga': 'Rata-rata Harga'},
+             template='plotly')
+
+# data standar deviasi per kategori
+avg_std_per_category = df.groupby(['kategori', 'nama'])['harga'].std().reset_index()
+avg_std_per_category.rename(columns={'harga': 'std_dev'}, inplace=True)
+avg_std_per_category = avg_std_per_category.groupby('kategori')['std_dev'].mean().reset_index()
+avg_std_per_category = avg_std_per_category.sort_values('std_dev', ascending=False, ignore_index=True)
+fig_std_per_category = px.bar(avg_std_per_category, x='kategori', y='std_dev', 
+             title='Rata-rata Standar Deviasi per Kategori',
+             labels={'kategori': 'Kategori', 'std_dev': 'Rata-rata Standar Deviasi'},
+             template='plotly')
+
+# data seasonal plot
+@app.callback(
+    Output('seasonal-plot', 'figure'),
+    Input('dropdown-commodities', 'value')
+)
+def seasonal_plot(commodity):
+    price_dist = df.copy()
+    # selected_commodities = std_prices_high['nama'][:5].values
+    # price_dist = price_dist[price_dist['nama'].isin(selected_commodities)].reset_index(drop=True)
+    price_dist['tanggal'] = pd.to_datetime(price_dist['tanggal'])
+    commodity_data = price_dist[price_dist['nama'] == commodity]
+    commodity_data['year'] = commodity_data['tanggal'].dt.year
+    commodity_data['month'] = commodity_data['tanggal'].dt.month
+
+    # Create an empty figure
+    # fig = px.line(commodity_data, x='month', y='harga', color='year', title=f'Harga {commodity} per Bulan')
+    # Create an empty figure
+    fig = go.Figure()
+
+    # Loop through each unique year in the dataframe
+    for year in commodity_data['year'].unique():
+        subset = commodity_data[commodity_data['year'] == year]
+        fig.add_trace(go.Scatter(
+            x=subset['month'],
+            y=subset['harga'],
+            mode='lines+markers',
+            name=str(year)
+        ))
+
+    # Update layout of the figure
+    fig.update_layout(
+        title=f'Seasonal Plot : {commodity}',
+        xaxis_title='Bulan',
+        yaxis_title='Harga',
+        legend_title='Tahun',
+        template='plotly_white'
+    )
+    return fig
+
 tabvisualisasi_content = html.Div(children=[
     html.H3(children="Visualisasi Data Harga"),
+    html.Hr(),
     html.Div(children=[
         html.H4(children="1. Komoditas dengan harga tertinggi dan terendah"),
         dbc.Row([
@@ -52,11 +127,42 @@ tabvisualisasi_content = html.Div(children=[
             dbc.Col(children=dcc.Graph(figure=fig_min_prices))
         ]),
         dbc.Row([
-            dbc.Col(children=html.H5(children="5 komoditas dengan harga tertinggi")),
-            dbc.Col(children=html.H5(children="5 komoditas dengan harga terendah"))
+            dbc.Col(children=html.P(children="5 komoditas dengan harga tertinggi")),
+            dbc.Col(children=html.P(children="5 komoditas dengan harga terendah"))
         ])
-    ], style={"margin-top" : "20px"})
-
+    ], style={"margin-top" : "20px"}),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="2. Komoditas dengan standar deviasi tertinggi dan terendah"),
+        dbc.Row([
+            dbc.Col(children=dcc.Graph(figure=fig_std_prices_high)),
+            dbc.Col(children=dcc.Graph(figure=fig_std_prices_low))
+        ]),
+        dbc.Row([
+            dbc.Col(children=html.P(children="5 komoditas dengan standar deviasi tertinggi")),
+            dbc.Col(children=html.P(children="5 komoditas dengan standar deviasi terendah"))
+        ])
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="3. Rata-rata Harga per Kategori"),
+        dcc.Graph(figure=fig_price_per_categori)
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="4. Rata-rata Standar Deviasi per Kategori"),
+        dbc.Col(children=dcc.Graph(figure=fig_std_per_category))
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="5. Visualisasi musiman pada harga komoditas"),
+        dbc.Row([
+            dbc.Col(children=[
+                dcc.Dropdown(options=df['nama'].unique(), value=df['nama'].unique()[0], id="dropdown-commodities"),
+            ], width=3)
+        ]),
+        dcc.Graph(id="seasonal-plot", figure={})
+    ])
 ], style={"margin-top" : "20px"})
 
 app.layout = html.Div(children=[
