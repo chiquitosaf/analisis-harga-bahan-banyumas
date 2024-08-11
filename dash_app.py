@@ -1,14 +1,17 @@
-from dash import Dash, html, dash_table
+from dash import Dash, html, dash_table, dcc
 import dash_bootstrap_components as dbc
 import pandas as pd
+import plotly.express as px
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
 )
 
-#content for tab data
+# data
 df =  pd.read_csv("data/dataframe_data.csv")
 df.drop(columns=["Unnamed: 0"], inplace=True)
+
+# content for tab data
 tabdata_content = html.Div(children=[
         html.H3(children="Data Harga"),
         html.P(children="Data bersumber dari Dinas Perindustrian dan Perdagangan Kabupaten Banyumas langsung dengan tambahan data dari https://sigaokmas.banyumaskab.go.id dan https://www.bi.go.id/hargapangan"),
@@ -21,6 +24,40 @@ tabdata_content = html.Div(children=[
                              page_size=10, style_table={"overflowX" : "auto"},
                              filter_action="native", sort_action="native")
     ], style={"margin-top" : "20px"})
+
+# content for tab visualisasi
+
+# data 5 komoditas dengan harga tertinggi
+max_prices = df.groupby('nama')['harga'].max().reset_index()
+max_prices = max_prices.sort_values('harga', ascending=False)[:5].reset_index(drop=True)
+fig_max_prices = px.bar(max_prices, x='nama', y='harga', 
+             title='Harga Tertinggi untuk Bahan Pokok',
+             labels={'nama': 'Bahan Pokok', 'harga': 'Harga Tertinggi'},
+             template='plotly')
+
+# data 5 komoditas dengan harga terendah
+min_prices = df.groupby('nama')['harga'].min().reset_index()
+min_prices = min_prices.sort_values('harga', ascending=True)[:5].reset_index(drop=True)
+fig_min_prices = px.bar(min_prices, x='nama', y='harga', 
+             title='Harga Tertinggi untuk Bahan Pokok',
+             labels={'nama': 'Bahan Pokok', 'harga': 'Harga Tertinggi'},
+             template='plotly')
+
+tabvisualisasi_content = html.Div(children=[
+    html.H3(children="Visualisasi Data Harga"),
+    html.Div(children=[
+        html.H4(children="1. Komoditas dengan harga tertinggi dan terendah"),
+        dbc.Row([
+            dbc.Col(children=dcc.Graph(figure=fig_max_prices)),
+            dbc.Col(children=dcc.Graph(figure=fig_min_prices))
+        ]),
+        dbc.Row([
+            dbc.Col(children=html.H5(children="5 komoditas dengan harga tertinggi")),
+            dbc.Col(children=html.H5(children="5 komoditas dengan harga terendah"))
+        ])
+    ], style={"margin-top" : "20px"})
+
+], style={"margin-top" : "20px"})
 
 app.layout = html.Div(children=[
     #header - title
@@ -49,8 +86,8 @@ app.layout = html.Div(children=[
     #tabs
     html.Div(children=[
         dbc.Tabs([
-            dbc.Tab(tabdata_content,label="Data", tab_id="data"),
-            dbc.Tab(label="Visualisasi", tab_id="visualisasi"),
+            dbc.Tab(tabdata_content, label="Data", tab_id="data"),
+            dbc.Tab(tabvisualisasi_content, label="Visualisasi", tab_id="visualisasi"),
             dbc.Tab(label="Analisis", tab_id="analisis")
         ], id="main-tabs", active_tab="data"),
         html.Div(id="tabs-content")
