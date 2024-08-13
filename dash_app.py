@@ -3,6 +3,12 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import matplotlib  
+import matplotlib.pyplot as plt
+matplotlib.use('agg')
+import seaborn as sns
+from io import BytesIO
+import base64
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
@@ -117,6 +123,27 @@ def seasonal_plot(commodity):
     )
     return fig
 
+# data tren pada tiap kategori
+# avg_price_per_date_cat= df.groupby(['kategori', 'tanggal'])['harga'].mean().reset_index()
+# avg_price_per_date_cat['tanggal'] = pd.to_datetime(avg_price_per_date_cat['tanggal'])
+df['tanggal'] = pd.to_datetime(df['tanggal'])
+kategoris = df['kategori'].unique()
+fig = plt.figure(figsize=(14, 7))
+for kategori in kategoris:
+    subset = df[df['kategori'] == kategori]
+    sns.lineplot(x='tanggal', y='harga', data=subset, label=kategori)
+plt.title('Tren Harga Tiap Kategori Bahan Pokok Tahun 2019-2023')
+plt.xlabel('Tanggal')
+plt.ylabel('Harga')
+plt.legend(title='Kategori')
+plt.xticks(rotation=45)
+ # Save it to a temporary buffer.
+buf = BytesIO()
+fig.savefig(buf, format="png")
+# Embed the result in the html output.
+fig_data = base64.b64encode(buf.getbuffer()).decode("ascii")
+fig_bar_matplotlib = f'data:image/png;base64,{fig_data}'
+
 tabvisualisasi_content = html.Div(children=[
     html.H3(children="Visualisasi Data Harga"),
     html.Hr(),
@@ -162,7 +189,12 @@ tabvisualisasi_content = html.Div(children=[
             ], width=3)
         ]),
         dcc.Graph(id="seasonal-plot", figure={})
-    ])
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="6. Tren pada tiap kategori"),
+        html.Img(src=fig_bar_matplotlib)   
+    ]),
 ], style={"margin-top" : "20px"})
 
 app.layout = html.Div(children=[
