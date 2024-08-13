@@ -9,6 +9,7 @@ matplotlib.use('agg')
 import seaborn as sns
 from io import BytesIO
 import base64
+import numpy as np
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
@@ -123,12 +124,19 @@ def seasonal_plot(commodity):
     )
     return fig
 
+def matplotlib_to_plotly(fig):
+    # Convert a matplotlib figure to Plotly figure
+    buf = BytesIO()
+    fig.savefig(buf, format="png")
+    fig_data = base64.b64encode(buf.getbuffer()).decode("ascii")
+    return f'data:image/png;base64,{fig_data}'
+
 # data tren pada tiap kategori
-# avg_price_per_date_cat= df.groupby(['kategori', 'tanggal'])['harga'].mean().reset_index()
-# avg_price_per_date_cat['tanggal'] = pd.to_datetime(avg_price_per_date_cat['tanggal'])
+avg_price_per_date_cat= df.groupby(['kategori', 'tanggal'])['harga'].mean().reset_index()
+avg_price_per_date_cat['tanggal'] = pd.to_datetime(avg_price_per_date_cat['tanggal'])
 df['tanggal'] = pd.to_datetime(df['tanggal'])
 kategoris = df['kategori'].unique()
-fig = plt.figure(figsize=(14, 7))
+fig_tren = plt.figure(figsize=(13, 6))
 for kategori in kategoris:
     subset = df[df['kategori'] == kategori]
     sns.lineplot(x='tanggal', y='harga', data=subset, label=kategori)
@@ -137,12 +145,43 @@ plt.xlabel('Tanggal')
 plt.ylabel('Harga')
 plt.legend(title='Kategori')
 plt.xticks(rotation=45)
- # Save it to a temporary buffer.
-buf = BytesIO()
-fig.savefig(buf, format="png")
-# Embed the result in the html output.
-fig_data = base64.b64encode(buf.getbuffer()).decode("ascii")
-fig_bar_matplotlib = f'data:image/png;base64,{fig_data}'
+fig_bar_matplotlib = matplotlib_to_plotly(fig_tren)
+
+# data korelasi antar kategori
+df_corr = avg_price_per_date_cat.pivot_table(index='tanggal', columns='kategori', values='harga')
+fig_corr = plt.figure(figsize=(15, 6))
+sns.heatmap(df_corr.corr(), annot=True, cmap='coolwarm')
+plt.title('Korelasi antar Kategori Bahan Pokok')
+fig_corr_matplotlib = matplotlib_to_plotly(fig_corr)
+
+# data perubahan harga bahan pokok
+# Perubahan Harga Bahan Pokok dari tahun 2019 sampai 2023
+
+df_perubahan = pd.DataFrame()
+commodities = df['nama'].unique()
+
+df_perubahan['komoditas'] = commodities
+price_changes = []
+naik_turun = []
+for commodity in commodities:
+    subset = df[df['nama'] == commodity]['harga']
+    for i in range(len(subset)):
+        if subset.iloc[i] != 0 and not np.isnan(subset.iloc[i]):
+            price_changes.append(np.abs(subset.iloc[len(subset)-1] - subset.iloc[i]) / subset.iloc[i] * 100)
+            naik_turun.append('naik' if subset.iloc[len(subset)-1] > subset.iloc[i] else 'turun')
+            break
+df_perubahan['perubahan_harga(%)'] = price_changes
+df_perubahan['naik_turun'] = naik_turun
+df_perubahan = df_perubahan.sort_values('perubahan_harga(%)', ascending=False, ignore_index=True)
+
+fig_pie = plt.figure(figsize=(4, 6))
+plt.pie(df_perubahan['naik_turun'].value_counts(), labels=['Naik', 'Turun'], autopct='%1.1f%%', startangle=90)
+plt.suptitle('Perbandingan Jumlah Harga Naik dan Turun')
+plt.title(f'Naik : {df_perubahan["naik_turun"].value_counts()["naik"]}\nTurun : {df_perubahan["naik_turun"].value_counts()["turun"]}',
+           y = 0.9,
+           loc='left')
+fig_pie_matplotlib = matplotlib_to_plotly(fig_pie)
+
 
 tabvisualisasi_content = html.Div(children=[
     html.H3(children="Visualisasi Data Harga"),
@@ -195,6 +234,23 @@ tabvisualisasi_content = html.Div(children=[
         html.H4(children="6. Tren pada tiap kategori"),
         html.Img(src=fig_bar_matplotlib)   
     ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="7. Korelasi mengenai harga rata-rata pada tiap kategori"),
+        html.Img(src=fig_corr_matplotlib)   
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="8. Perubahan harga dari komoditas"),
+        html.Div(children=[
+           dbc.Row([
+            # TODO Customize the table
+               dbc.Col(children=dash_table.DataTable(df_perubahan[:(len(df_perubahan)//2) + 1].to_dict('records'), [{"name": i, "id": i} for i in df_perubahan.columns])),
+               dbc.Col(children=dash_table.DataTable(df_perubahan[(len(df_perubahan)//2) + 1:].to_dict('records'), [{"name": i, "id": i} for i in df_perubahan.columns])),
+               dbc.Col(html.Img(src=fig_pie_matplotlib))
+           ]) 
+        ])
+    ])
 ], style={"margin-top" : "20px"})
 
 app.layout = html.Div(children=[
