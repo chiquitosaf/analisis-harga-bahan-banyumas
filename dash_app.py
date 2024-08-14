@@ -10,6 +10,7 @@ import seaborn as sns
 from io import BytesIO
 import base64
 import numpy as np
+from dash.dash_table.Format import Format, Scheme, Trim
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
@@ -182,6 +183,12 @@ plt.title(f'Naik : {df_perubahan["naik_turun"].value_counts()["naik"]}\nTurun : 
            loc='left')
 fig_pie_matplotlib = matplotlib_to_plotly(fig_pie)
 
+columns_perubahan = [
+    dict(id='komoditas', name='Komoditas'),
+    dict(id='perubahan_harga(%)', name='Perubahan Harga (%)', type='numeric', format=Format(precision=2, scheme=Scheme.fixed)),
+    dict(id='naik_turun', name='Naik/Turun')
+]
+
 
 tabvisualisasi_content = html.Div(children=[
     html.H3(children="Visualisasi Data Harga"),
@@ -245,8 +252,36 @@ tabvisualisasi_content = html.Div(children=[
         html.Div(children=[
            dbc.Row([
             # TODO Customize the table
-               dbc.Col(children=dash_table.DataTable(df_perubahan[:(len(df_perubahan)//2) + 1].to_dict('records'), [{"name": i, "id": i} for i in df_perubahan.columns])),
-               dbc.Col(children=dash_table.DataTable(df_perubahan[(len(df_perubahan)//2) + 1:].to_dict('records'), [{"name": i, "id": i} for i in df_perubahan.columns])),
+               dbc.Col(children=dash_table.DataTable(df_perubahan[:(len(df_perubahan)//2) + 1].to_dict('records'),
+                                                      columns=columns_perubahan,
+                                                      style_header={'backgroundColor': 'rgb(128, 128, 128)',
+                                                                    'fontWeight': 'bold',
+                                                                    'color' : 'white'},
+                                                      style_cell={'textAlign': 'left'},
+                                                      style_data_conditional=[
+                                                          {
+                                                              'if': {
+                                                                  'filter_query': "{naik_turun} eq 'turun'",
+                                                              },
+                                                                'backgroundColor': 'rgb(153, 0, 0)',
+                                                                'color': 'white'
+                                                          }
+                                                      ])),
+               dbc.Col(children=dash_table.DataTable(df_perubahan[(len(df_perubahan)//2) + 1:].to_dict('records'),
+                                                      columns=columns_perubahan,
+                                                      style_header={'backgroundColor': 'rgb(128, 128, 128)',
+                                                                    'fontWeight': 'bold',
+                                                                    'color' : 'white'},
+                                                      style_cell={'textAlign': 'left'},
+                                                      style_data_conditional=[
+                                                          {
+                                                              'if': {
+                                                                  'filter_query': "{naik_turun} eq 'turun'",
+                                                              },
+                                                                'backgroundColor': 'rgb(255, 127, 4)',
+                                                                'color': 'white'
+                                                          }
+                                                      ])),
                dbc.Col(html.Img(src=fig_pie_matplotlib))
            ]) 
         ])
