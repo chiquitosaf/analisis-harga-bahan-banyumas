@@ -10,7 +10,8 @@ import seaborn as sns
 from io import BytesIO
 import base64
 import numpy as np
-from dash.dash_table.Format import Format, Scheme, Trim
+from dash.dash_table.Format import Format, Scheme
+import calendar
 
 app = Dash(
  external_stylesheets=[dbc.themes.BOOTSTRAP]
@@ -189,6 +190,58 @@ columns_perubahan = [
     dict(id='naik_turun', name='Naik/Turun')
 ]
 
+# data kenaikan harga tertinggi pada tiap tahun di setiap kategori
+highest_price_increase_df = df.copy()
+highest_price_increase_df['tanggal'] = pd.to_datetime(highest_price_increase_df['tanggal'])
+highest_price_increase_df['year'] = highest_price_increase_df['tanggal'].dt.year
+highest_price_increase_df.drop(['satuan', 'kategori'], axis=1, inplace=True)
+
+dict_max_perubahan = {}
+for commodity in commodities:
+    subset = highest_price_increase_df[highest_price_increase_df['nama'] == commodity]
+    subset['harga_sebelumnya'] = highest_price_increase_df.groupby('nama')['harga'].shift(1)
+    subset.dropna(inplace=True)
+    subset['perubahan_harga'] = subset['harga'] - subset['harga_sebelumnya']
+    grouped = subset.groupby(['nama', 'year'])
+    idx = grouped['perubahan_harga'].idxmax()
+    dict_max_perubahan[commodity] = subset.loc[idx] 
+
+price_increase_df = pd.DataFrame()
+for i in dict_max_perubahan:
+    price_increase_df = pd.concat([price_increase_df, dict_max_perubahan[i]]).reset_index(drop=True)
+
+price_increase_df.drop(columns='harga_sebelumnya', inplace=True)
+
+price_increase_df['bulan'] = price_increase_df['tanggal'].dt.month
+price_increase_df['bulan'] = price_increase_df['bulan'].apply(lambda x: calendar.month_abbr[x])
+month_high_price = price_increase_df.groupby('bulan')['bulan'].count().sort_values(ascending=False)
+month_high_price = month_high_price.to_frame()
+month_high_price.rename(columns={'bulan':'jumlah'}, inplace=True)
+month_high_price['bulan'] = month_high_price.index
+month_high_price.reset_index(drop=True,inplace=True)
+month_high_price.sort_values('jumlah', ascending=True, inplace=True)
+
+annotations = []
+for i in range(len(month_high_price)):
+    annotations.append(dict(x=month_high_price['jumlah'][i],
+                            y=month_high_price['bulan'][i],
+                            text=f"(<b>{month_high_price['jumlah'][i]}</b>)",
+                            # font=dict(
+                            #     color='black',
+                                
+                            # )
+                            showarrow=False))
+
+fig_increase_price = go.Figure(go.Bar(
+            x=month_high_price['jumlah'],
+            y=month_high_price['bulan'],
+            orientation='h'))
+
+fig_increase_price.update_layout(title='Bulan dengan Kenaikan Harga Tertinggi',
+                                    xaxis_title='Frekuensi',
+                                    yaxis_title='Bulan',
+                                    annotations=annotations,
+                                    template='plotly_white')
 
 tabvisualisasi_content = html.Div(children=[
     html.H3(children="Visualisasi Data Harga"),
@@ -251,7 +304,6 @@ tabvisualisasi_content = html.Div(children=[
         html.H4(children="8. Perubahan harga dari komoditas"),
         html.Div(children=[
            dbc.Row([
-            # TODO Customize the table
                dbc.Col(children=dash_table.DataTable(df_perubahan[:(len(df_perubahan)//2) + 1].to_dict('records'),
                                                       columns=columns_perubahan,
                                                       style_header={'backgroundColor': 'rgb(128, 128, 128)',
@@ -285,6 +337,11 @@ tabvisualisasi_content = html.Div(children=[
                dbc.Col(html.Img(src=fig_pie_matplotlib))
            ]) 
         ])
+    ]),
+    html.Hr(),
+    html.Div(children=[
+        html.H4(children="9. Pada bulan apa saja komoditas mengalami kenaikan harga tertinggi?"),
+        dcc.Graph(figure=fig_increase_price)
     ])
 ], style={"margin-top" : "20px"})
 
