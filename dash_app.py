@@ -223,7 +223,7 @@ month_high_price.sort_values('jumlah', ascending=True, inplace=True)
 
 annotations = []
 for i in range(len(month_high_price)):
-    annotations.append(dict(x=month_high_price['jumlah'][i],
+    annotations.append(dict(x=month_high_price['jumlah'][i]+1,
                             y=month_high_price['bulan'][i],
                             text=f"(<b>{month_high_price['jumlah'][i]}</b>)",
                             # font=dict(
