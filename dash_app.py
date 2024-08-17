@@ -345,6 +345,22 @@ tabvisualisasi_content = html.Div(children=[
     ])
 ], style={"margin-top" : "20px"})
 
+# content for tab analisis
+tabanalisis_content = html.Div(children=[
+    html.H3(children="Analisis Data Harga"),
+    html.P("Berdasarkan visualisasi data harga, dapat ditarik beberapa kesimpulan sebagai berikut:"),
+    html.Ol(children=[
+        html.Li("Daging sapi merupakan komoditas termahal pada bahan pokok bulanan di Banyumas tahun 2019 - 2023."),
+        html.Li("Mie instant merupakan komoditas termurah pada bahan pokok bulanan di Banyumas tahun 2019 - 2023."),
+        html.Li("Komoditas yang memiliki kestabilan harga terendah sepanjang tahun 2019 - 2023 adalah komoditas cabai."),
+        html.Li("Komoditas yang memiliki kestabilan tertinggi sepanjang tahun 2019 - 2023 adalah ketela pohon."),
+        html.Li("Kenaikan harga sering terjadi pada masa pergantian tahun dan pada bulan ramadhan."),
+        html.Li("Daging sapi memiliki korelasi terbalik dengan ikan laut. Hal ini menunjukkan bahwa ketika harga daging sapi naik, harga ikan laut turun."),
+        html.Li("Komoditas cabai mengalami kenaikan harga tertinggi. Sedangkan, komoditas mengalami penurunan harga (perbandingan dari data terlama dengan data terbaru)."),
+        html.Li("92 % komoditas bahan pokok mengalami kenaikan harga.")
+    ], type="1")
+], style={"margin-top" : "20px"})
+
 app.layout = html.Div(children=[
     #header - title
     html.Div(children=[
@@ -374,7 +390,7 @@ app.layout = html.Div(children=[
         dbc.Tabs([
             dbc.Tab(tabdata_content, label="Data", tab_id="data"),
             dbc.Tab(tabvisualisasi_content, label="Visualisasi", tab_id="visualisasi"),
-            dbc.Tab(label="Analisis", tab_id="analisis")
+            dbc.Tab(tabanalisis_content, label="Analisis", tab_id="analisis")
         ], id="main-tabs", active_tab="data"),
         html.Div(id="tabs-content")
     ])
