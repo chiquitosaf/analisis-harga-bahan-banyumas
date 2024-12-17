@@ -49,8 +49,8 @@ fig_max_prices = px.bar(max_prices, x='nama', y='harga',
 min_prices = df.groupby('nama')['harga'].min().reset_index()
 min_prices = min_prices.sort_values('harga', ascending=True)[:5].reset_index(drop=True)
 fig_min_prices = px.bar(min_prices, x='nama', y='harga', 
-             title='Harga Tertinggi untuk Bahan Pokok',
-             labels={'nama': 'Bahan Pokok', 'harga': 'Harga Tertinggi'},
+             title='Harga Terendah untuk Bahan Pokok',
+             labels={'nama': 'Bahan Pokok', 'harga': 'Harga Terendah'},
              template='plotly')
 
 # data 5 komoditas dengan standar deviasi tertinggi
